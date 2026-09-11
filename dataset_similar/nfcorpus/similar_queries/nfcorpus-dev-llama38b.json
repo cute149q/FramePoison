@@ -1,0 +1,2222 @@
+{
+    "PLAIN-1": {
+        "query1": "Can Deep-Fried Foods Lead to Cancer Development?",
+        "query2": "Is Consuming Deep-Fried Foods Linked to Cancer Risk?",
+        "query3": "How Do Deep-Fried Foods Contribute to Cancer Formation?",
+        "query4": "What's the Connection Between Deep-Fried Foods and Cancer?",
+        "query5": "Do Deep-Fried Foods Increase the Chances of Getting Cancer?"
+    },
+    "PLAIN-11": {
+        "query1": "Extending Lifespan through Lower Leucine Consumption",
+        "query2": "Impact of Reduced Leucine Intake on Increased Longevity",
+        "query3": "Leucine Restriction and Its Effects on Prolonged Life Expectancy",
+        "query4": "The Relationship between Decreased Leucine Intake and Longer Lifespan",
+        "query5": "Reducing Leucine Intake for Enhanced Longevity and Health"
+    },
+    "PLAIN-22": {
+        "query1": "What is the reason behind the low incidence of cancer in India?",
+        "query2": "Why do cancer rates appear to be lower in India compared to other countries?",
+        "query3": "What factors contribute to the low cancer prevalence in India?",
+        "query4": "Can you explain the low cancer rates observed in India?",
+        "query5": "What are the possible reasons for the lower cancer incidence in India?"
+    },
+    "PLAIN-32": {
+        "query1": "Exposing the Truth About the Egg Industry",
+        "query2": "Uncovering the Secrets of the Egg Industry",
+        "query3": "Investigating the Egg Industry's Practices",
+        "query4": "Unveiling the Realities of the Egg Industry",
+        "query5": "Exploring the Unspoken Truths of the Egg Industry"
+    },
+    "PLAIN-43": {
+        "query1": "Organic milk consumption and prostate cancer risk",
+        "query2": "Prostate cancer and organic dairy milk intake",
+        "query3": "Effect of organic milk on prostate cancer development",
+        "query4": "Organic milk and prostate cancer incidence",
+        "query5": "Dietary organic milk and prostate cancer risk factors"
+    },
+    "PLAIN-55": {
+        "query1": "Foods that help prevent macular degeneration",
+        "query2": "Best foods for macular degeneration prevention",
+        "query3": "Macular degeneration diet foods",
+        "query4": "Foods that slow down macular degeneration",
+        "query5": "Nutrition for macular degeneration patients"
+    },
+    "PLAIN-67": {
+        "query1": "What role do beans play in maintaining strong bones?",
+        "query2": "How do beans contribute to bone density and overall skeletal health?",
+        "query3": "What are the key nutrients in beans that support bone health and strength?",
+        "query4": "Can consuming beans help prevent osteoporosis and related bone disorders?",
+        "query5": "How do beans affect bone growth and development in children and adults?"
+    },
+    "PLAIN-77": {
+        "query1": "Phosphate additives in chicken products banned in other countries",
+        "query2": "Restrictions on phosphate additives in chicken products in other countries",
+        "query3": "Countries where chicken products with phosphate additives are banned",
+        "query4": "International bans on phosphate-enriched chicken products",
+        "query5": "Countries that prohibit phosphate additives in chicken feed"
+    },
+    "PLAIN-90": {
+        "query1": "How to Maximize the Effects of Physical Activity",
+        "query2": "Ways to Enhance the Benefits of Exercise Routine",
+        "query3": "Tips to Increase the Positive Impact of Working Out",
+        "query4": "Strategies to Amplify the Benefits of Regular Exercise",
+        "query5": "Methods to Boost the Rewards of Physical Fitness"
+    },
+    "PLAIN-101": {
+        "query1": "How to Manage Multiple Sclerosis with Nutrition and Diet",
+        "query2": "Best Diet for Multiple Sclerosis Treatment and Management",
+        "query3": "What to Eat and Avoid with Multiple Sclerosis for Optimal Health",
+        "query4": "Natural Ways to Manage Multiple Sclerosis Symptoms through Diet and Nutrition",
+        "query5": "Multiple Sclerosis Diet and Lifestyle Changes for Better Health Outcomes"
+    },
+    "PLAIN-111": {
+        "query1": "How to Get Children to Eat Their Greens",
+        "query2": "Encouraging Kids to Eat Healthy Fruits and Vegetables",
+        "query3": "Tips for Getting Kids to Eat More Vegetables",
+        "query4": "Ways to Get Your Kids to Eat Their Daily Serving of Vegetables",
+        "query5": "Strategies for Getting Kids to Eat More Leafy Greens"
+    },
+    "PLAIN-122": {
+        "query1": "Citrus Fruits for Reducing Muscle Fatigue",
+        "query2": "Using Citrus to Combat Muscle Fatigue",
+        "query3": "Citrus Juice for Reducing Muscle Soreness",
+        "query4": "The Effect of Citrus on Muscle Fatigue",
+        "query5": "Citrus Extracts for Reducing Muscle Fatigue Symptoms"
+    },
+    "PLAIN-132": {
+        "query1": "Can Eating Greens Help to Beat the Blues?"
+    },
+    "PLAIN-142": {
+        "query1": "Radiation Exposure from Air Travel: Causes and Effects",
+        "query2": "Air Travel Radiation Safety: How to Minimize Exposure",
+        "query3": "The Risks of Radiation Exposure on Commercial Flights",
+        "query4": "Reducing Radiation Exposure During Air Travel",
+        "query5": "Understanding Radiation Exposure from Flying: A Guide"
+    },
+    "PLAIN-152": {
+        "query1": "What is the impact of probiotics on mental well-being?",
+        "query2": "How do probiotics influence mood and cognitive function?",
+        "query3": "What are the benefits of probiotics for mental health and wellness?",
+        "query4": "Can probiotics improve mental clarity and reduce stress?",
+        "query5": "How do probiotics interact with the brain to promote mental well-being?"
+    },
+    "PLAIN-164": {
+        "query1": "Resilient but Defeated",
+        "query2": "Not Conquered but Beaten",
+        "query3": "Defeated but Unbroken",
+        "query4": "Beaten but Not Broken",
+        "query5": "Conquered but Not Crushed"
+    },
+    "PLAIN-174": {
+        "query1": "Cinnamon and diabetes treatment",
+        "query2": "Cinnamon benefits for diabetes patients",
+        "query3": "Cinnamon effects on blood sugar levels",
+        "query4": "Cinnamon and insulin sensitivity",
+        "query5": "Cinnamon for blood sugar regulation"
+    },
+    "PLAIN-185": {
+        "query1": "Best Nutrition Bars for Healthy Snacking",
+        "query2": "Top Rated Nutrition Bars for Weight Management",
+        "query3": "Healthiest Nutrition Bars for Energy and Wellness",
+        "query4": "Best Protein Bars for Fitness and Nutrition",
+        "query5": "Nutrition Bars with High Nutritional Value for a Quick Snack"
+    },
+    "PLAIN-195": {
+        "query1": "Why are kids entering puberty at a younger age?",
+        "query2": "What's causing children to start puberty earlier?",
+        "query3": "Why are young people experiencing puberty at an increasingly younger age?",
+        "query4": "What factors are contributing to the early onset of puberty in children?",
+        "query5": "Why are children developing physically at a younger age than previous generations?"
+    },
+    "PLAIN-206": {
+        "query1": "Foods That Can Help Prevent Cancer",
+        "query2": "Foods That May Help Reduce Cancer Risk",
+        "query3": "Nutrient-Rich Foods That May Lower Cancer Risk",
+        "query4": "Cancer-Fighting Foods and Their Benefits",
+        "query5": "Healthy Foods That May Help Prevent Cancer"
+    },
+    "PLAIN-216": {
+        "query1": "Plant-based diets for metabolic syndrome treatment",
+        "query2": "Effectiveness of plant-based diets for metabolic syndrome management",
+        "query3": "Plant-based eating for metabolic syndrome prevention",
+        "query4": "Comparative study of plant-based diets and metabolic syndrome",
+        "query5": "Plant-based nutrition and metabolic syndrome risk reduction"
+    },
+    "PLAIN-226": {
+        "query1": "Yersinia contamination in pork products and ractopamine residues",
+        "query2": "Pork and Yersinia bacteria: risks associated with ractopamine use",
+        "query3": "Ractopamine and Yersinia in pork: a review of the literature",
+        "query4": "Yersinia and ractopamine in pork: a public health concern",
+        "query5": "The impact of ractopamine on Yersinia contamination in pork"
+    },
+    "PLAIN-237": {
+        "query1": "Toxic substances in California breast tissue",
+        "query2": "Polychlorinated biphenyls (PCBs) and other pollutants in California breast tissue",
+        "query3": "Environmental pollutants found in breast tissue samples from California residents",
+        "query4": "Presence of endocrine disruptors in breast tissue of Californian women",
+        "query5": "Detection of persistent organic pollutants (POPs) in breast tissue from California"
+    },
+    "PLAIN-247": {
+        "query1": "How Do Plant-Based Diets Help Prevent Cancer?",
+        "query2": "What Role Do Plant-Based Diets Play in Reducing Cancer Risk?",
+        "query3": "Can a Plant-Based Diet Help Fight Against Cancer?",
+        "query4": "How Do Plant-Based Diets Contribute to Cancer Prevention?",
+        "query5": "What Benefits Do Plant-Based Diets Offer in Terms of Cancer Prevention?"
+    },
+    "PLAIN-258": {
+        "query1": "Eating Nuts Does Not Result in Unintended Weight Gain",
+        "query2": "Nuts Are Not Linked to Weight Gain",
+        "query3": "Do Nuts Cause Weight Gain? Research Says No",
+        "query4": "Nuts and Weight Gain: Separating Fact from Fiction",
+        "query5": "Contrary to Belief, Nuts Do Not Contribute to Weight Gain"
+    },
+    "PLAIN-269": {
+        "query1": "Managing Kidney Disease with Dietary Changes",
+        "query2": "Kidney Failure Prevention and Treatment through Nutrition",
+        "query3": "Dietary Strategies for Reducing Kidney Damage",
+        "query4": "Nutritional Approaches to Managing Kidney Failure",
+        "query5": "The Role of Diet in Preventing and Treating Kidney Disease"
+    },
+    "PLAIN-279": {
+        "query1": "Latest issue of Clinical Nutrition Volume 10 now available on DVD",
+        "query2": "Clinical Nutrition Volume 10 DVD release",
+        "query3": "Newest Clinical Nutrition Volume 10 on DVD",
+        "query4": "Clinical Nutrition Volume 10 latest edition on DVD",
+        "query5": "Clinical Nutrition Volume 10 now on DVD for purchase"
+    },
+    "PLAIN-290": {
+        "query1": "What are the potential drawbacks of drinking coffee?",
+        "query2": "What are the negative effects of consuming coffee?",
+        "query3": "What are the cons of coffee consumption?",
+        "query4": "What are the risks associated with drinking coffee?",
+        "query5": "What are the downsides of coffee drinking?"
+    },
+    "PLAIN-304": {
+        "query1": "EPA's new dioxin limits raise concerns for the National Chicken Council, potentially labeling products as 'unsafe for human consumption'.",
+        "query2": "National Chicken Council fears EPA's dioxin regulations could classify chicken products as 'not fit for human consumption'.",
+        "query3": "EPA's stricter dioxin standards have the National Chicken Council worried about product recalls due to 'unsafe consumption' concerns.",
+        "query4": "The National Chicken Council is concerned that EPA's dioxin limits could lead to chicken products being deemed 'unwholesome for human consumption'.",
+        "query5": "EPA's new dioxin regulations have the National Chicken Council on high alert, fearing products could be labeled 'unsafe to eat'."
+    },
+    "PLAIN-319": {
+        "query1": "Bowel movements: the lowdown on stool",
+        "query2": "The ins and outs of bowel movements",
+        "query3": "Poop 101: understanding bowel movements",
+        "query4": "The scoop on bowel movements and stool",
+        "query5": "Bowel movements: what you need to know about poop"
+    },
+    "PLAIN-331": {
+        "query1": "How to live a longer life in simple steps",
+        "query2": "Easy ways to increase your lifespan",
+        "query3": "Four simple tips to live a longer life",
+        "query4": "Simple steps to extend your lifespan",
+        "query5": "Ways to live longer and healthier"
+    },
+    "PLAIN-343": {
+        "query1": "Lead Contamination Found in Certain Nutritional Yeast Brands: Experts Weigh in on the Risks",
+        "query2": "Nutritional Yeast Brands with Detectable Lead Levels: A Closer Look at the Potential Health Implications",
+        "query3": "Lead in Nutritional Yeast: What You Need to Know About the Latest Findings and the Associated Risks",
+        "query4": "Nutritional Yeast Brands with Elevated Lead Levels: Understanding the Science Behind the Contamination",
+        "query5": "Lead Contamination in Nutritional Yeast: A Review of the Current Research and the Potential Health Risks"
+    },
+    "PLAIN-357": {
+        "query1": "Can a person's diet be used to help treat kidney cancer?",
+        "query2": "Is there a link between diet and kidney cancer treatment?",
+        "query3": "Can kidney cancer be managed through dietary changes?",
+        "query4": "Does a healthy diet have any role in treating kidney cancer?",
+        "query5": "Can nutrition play a part in kidney cancer treatment and management?"
+    },
+    "PLAIN-370": {
+        "query1": "Do microgreens have more nutritional value than regular greens?",
+        "query2": "Do microgreens have higher nutritional content than mature greens?",
+        "query3": "What is the nutritional comparison between microgreens and regular greens?",
+        "query4": "How do the nutritional values of microgreens compare to regular greens?",
+        "query5": "What are the key nutritional differences between microgreens and mature greens?"
+    },
+    "PLAIN-382": {
+        "query1": "Is vanilla almond milk a nutritious option?",
+        "query2": "What are the health benefits of vanilla almond milk?",
+        "query3": "How does vanilla almond milk compare to regular milk in terms of health benefits?",
+        "query4": "What are the health implications of drinking vanilla almond milk?",
+        "query5": "What are the nutritional benefits of vanilla almond milk?"
+    },
+    "PLAIN-394": {
+        "query1": "Is taking algae supplements beneficial for astaxanthin intake?",
+        "query2": "Can algae supplements provide a sufficient amount of astaxanthin?",
+        "query3": "What are the benefits of taking algae-based astaxanthin supplements?",
+        "query4": "Should we consider algae supplements as a source of astaxanthin?",
+        "query5": "Are algae supplements a reliable way to get astaxanthin?"
+    },
+    "PLAIN-406": {
+        "query1": "Can hibiscus tea lead to coughing?",
+        "query2": "Can drinking hibiscus tea cause a cough?",
+        "query3": "Is hibiscus tea known to cause coughing?",
+        "query4": "Can hibiscus tea lead to persistent coughing?",
+        "query5": "Is hibiscus tea associated with coughing?"
+    },
+    "PLAIN-417": {
+        "query1": "Does wild rice have the same arsenic content as brown rice?",
+        "query2": "Is the arsenic level in wild rice comparable to that of brown rice?",
+        "query3": "How does the arsenic content in wild rice compare to brown rice?",
+        "query4": "Are wild rice and brown rice equally contaminated with arsenic?",
+        "query5": "What is the arsenic concentration in wild rice compared to brown rice?"
+    },
+    "PLAIN-428": {
+        "query1": "In making water alkaline, how much baking soda is too much?",
+        "query2": "In making water alkaline, how much baking soda is too much?",
+        "query3": "In making water alkaline, how much baking soda is too much?",
+        "query4": "In making water alkaline, how much baking soda is too much?",
+        "query5": "In making water alkaline, how much baking soda is too much?"
+    },
+    "PLAIN-440": {
+        "query1": "What's the ideal dosage of saffron?",
+        "query2": "How much saffron should I take?",
+        "query3": "What is the recommended amount of saffron to consume?",
+        "query4": "What's the safe dose of saffron?",
+        "query5": "How much saffron is considered a therapeutic dose?"
+    },
+    "PLAIN-456": {
+        "query1": "Is taking multivitamins linked to a higher risk of breast cancer?",
+        "query2": "Does multivitamin supplementation increase the likelihood of breast cancer?",
+        "query3": "Is there a correlation between multivitamin use and breast cancer risk?",
+        "query4": "Can taking multivitamins raise the risk of developing breast cancer?",
+        "query5": "Is there evidence that multivitamin use is associated with an increased risk of breast cancer?"
+    },
+    "PLAIN-467": {
+        "query1": "Isn't natural cocoa powder a better choice than alkalized 'Dutch-processed' cocoa powder?",
+        "query2": "Is regular cocoa powder more nutritious than 'Dutch-processed' cocoa powder?",
+        "query3": "Which type of cocoa powder is healthier: natural or alkali-processed 'Dutch-processed'?",
+        "query4": "Isn't 'natural' cocoa powder a healthier option than 'Dutch-processed' cocoa powder?",
+        "query5": "Is 'Dutch-processed' cocoa powder less healthy than regular, non-alkalized cocoa powder?"
+    },
+    "PLAIN-477": {
+        "query1": "acarbose medication",
+        "query2": "acarbose side effects",
+        "query3": "acarbose uses",
+        "query4": "what is acarbose used for",
+        "query5": "acarbose benefits and side effects"
+    },
+    "PLAIN-487": {
+        "query1": "substance abuse",
+        "query2": "chemical dependency",
+        "query3": "habitual behavior",
+        "query4": "compulsive behavior",
+        "query5": "recurring addiction"
+    },
+    "PLAIN-498": {
+        "query1": "African American population",
+        "query2": "Black Americans",
+        "query3": "People of African descent in the United States",
+        "query4": "African American community",
+        "query5": "Blacks in America"
+    },
+    "PLAIN-508": {
+        "query1": "flight travel",
+        "query2": "airplane travel",
+        "query3": "commercial air travel",
+        "query4": "aviation travel",
+        "query5": "airplane ticket travel"
+    },
+    "PLAIN-519": {
+        "query1": "allergies",
+        "query2": "sensitivities to substances",
+        "query3": "food intolerances or sensitivities",
+        "query4": "hypersensitivities to certain substances",
+        "query5": "adverse reactions to medications or substances"
+    },
+    "PLAIN-530": {
+        "query1": "Amyotrophic Lateral Sclerosis",
+        "query2": "ALS disease",
+        "query3": "Motor neuron disease",
+        "query4": "Lou Gehrig's disease",
+        "query5": "Progressive muscular atrophy"
+    },
+    "PLAIN-540": {
+        "query1": "American College of Lifestyle Medicine organization",
+        "query2": "Lifestyle Medicine American College",
+        "query3": "ACLM American College of Lifestyle Medicine",
+        "query4": "American College of Lifestyle Medicine information",
+        "query5": "Lifestyle Medicine professional organization American College"
+    },
+    "PLAIN-550": {
+        "query1": "ammonia compounds",
+        "query2": "ammonia gas",
+        "query3": "ammonia production",
+        "query4": "ammonia uses",
+        "query5": "properties of ammonia"
+    },
+    "PLAIN-560": {
+        "query1": "anesthesia techniques",
+        "query2": "types of anesthesia",
+        "query3": "anesthesia methods",
+        "query4": "anesthesia procedures",
+        "query5": "anesthesia administration"
+    },
+    "PLAIN-570": {
+        "query1": "animal research",
+        "query2": "zoological studies",
+        "query3": "comparative animal biology",
+        "query4": "animal behavior and cognition",
+        "query5": "wildlife and animal science"
+    },
+    "PLAIN-582": {
+        "query1": "histamine blockers",
+        "query2": "allergy medications",
+        "query3": "itch relief medications",
+        "query4": "antiallergic drugs",
+        "query5": "h1 blockers"
+    },
+    "PLAIN-592": {
+        "query1": "bioactive compounds",
+        "query2": "plant-derived natural products",
+        "query3": "flavonoids and their biological activities",
+        "query4": "phytochemicals with medicinal properties",
+        "query5": "biologically active compounds from plant sources"
+    },
+    "PLAIN-602": {
+        "query1": "Donepezil",
+        "query2": "Aricept medication",
+        "query3": "Donepezil Aricept",
+        "query4": "Treatment for Alzheimer's disease",
+        "query5": "Donepezil side effects"
+    },
+    "PLAIN-612": {
+        "query1": "asbestos exposure",
+        "query2": "asbestos health risks",
+        "query3": "asbestos removal methods",
+        "query4": "asbestos in buildings",
+        "query5": "asbestos safety guidelines"
+    },
+    "PLAIN-622": {
+        "query1": "lorazepam dosage",
+        "query2": "ativan side effects",
+        "query3": "ativan uses",
+        "query4": "lorazepam withdrawal symptoms",
+        "query5": "ativan overdose symptoms"
+    },
+    "PLAIN-633": {
+        "query1": "avocado oil benefits",
+        "query2": "avocado oil uses",
+        "query3": "avocado oil vs olive oil",
+        "query4": "best avocado oil for cooking",
+        "query5": "avocado oil nutrition facts"
+    },
+    "PLAIN-644": {
+        "query1": "bad breath",
+        "query2": "halitosis",
+        "query3": "morning breath",
+        "query4": "foul mouth odor",
+        "query5": "persistent bad breath"
+    },
+    "PLAIN-656": {
+        "query1": "Barrett's esophagus symptoms",
+        "query2": "Esophageal metaplasia diagnosis",
+        "query3": "Chronic acid reflux complications",
+        "query4": "Gastroesophageal reflux disease esophageal changes",
+        "query5": "Esophageal dysplasia risk factors"
+    },
+    "PLAIN-670": {
+        "query1": "bell pepper recipes",
+        "query2": "sweet pepper recipes",
+        "query3": "green pepper recipes",
+        "query4": "stuffed bell peppers",
+        "query5": "bell pepper stir fry"
+    },
+    "PLAIN-680": {
+        "query1": "beta-carboline alkaloids",
+        "query2": "carboline alkaloids",
+        "query3": "beta-carboline compounds",
+        "query4": "indole alkaloids",
+        "query5": "pyridoindole alkaloids"
+    },
+    "PLAIN-690": {
+        "query1": "bio identical hormone replacement therapy",
+        "query2": "natural hormone replacement therapy",
+        "query3": "hormone balancing supplements",
+        "query4": "bioidentical hormone pellets",
+        "query5": "hormone replacement therapy using natural estrogens"
+    },
+    "PLAIN-700": {
+        "query1": "black beans",
+        "query2": "black bean recipes",
+        "query3": "black bean soup",
+        "query4": "canned black beans",
+        "query5": "black bean salad"
+    },
+    "PLAIN-710": {
+        "query1": "leukemia treatment",
+        "query2": "cancer of the blood",
+        "query3": "blood disorder treatment",
+        "query4": "hematological cancer",
+        "query5": "cancer affecting the blood cells"
+    },
+    "PLAIN-720": {
+        "query1": "fish with blue color",
+        "query2": "blue colored fish species",
+        "query3": "blue fish types",
+        "query4": "fish with blue scales",
+        "query5": "blue fish identification"
+    },
+    "PLAIN-730": {
+        "query1": "cancer of the bones",
+        "query2": "bone tumors",
+        "query3": "cancer that affects the skeletal system",
+        "query4": "osteocarcinoma",
+        "query5": "cancer of the skeletal system"
+    },
+    "PLAIN-740": {
+        "query1": "bisphenol a",
+        "query2": "bpa chemical",
+        "query3": "bisphenol a exposure",
+        "query4": "bpa in plastics",
+        "query5": "bisphenol a health effects"
+    },
+    "PLAIN-750": {
+        "query1": "Brazil nut information",
+        "query2": "What are Brazil nuts?",
+        "query3": "Brazil nut tree facts",
+        "query4": "Brazil nut nutrition facts",
+        "query5": "Brazil nut benefits and uses"
+    },
+    "PLAIN-760": {
+        "query1": "human milk",
+        "query2": "maternal milk",
+        "query3": "lactation milk",
+        "query4": "mother's milk",
+        "query5": "colostrum and breast milk"
+    },
+    "PLAIN-770": {
+        "query1": "broccolini max",
+        "query2": "broccomax nutrition",
+        "query3": "broccomax benefits",
+        "query4": "broccomax recipe",
+        "query5": "broccomax vs broccoli"
+    },
+    "PLAIN-781": {
+        "query1": "tacos near me",
+        "query2": "Mexican food burrito style",
+        "query3": "large flour tortilla wraps",
+        "query4": "beef and bean wraps",
+        "query5": "Mexican burrito recipes"
+    },
+    "PLAIN-791": {
+        "query1": "cabbage varieties",
+        "query2": "types of cabbage",
+        "query3": "cabbage recipes",
+        "query4": "cabbage nutrition facts",
+        "query5": "growing cabbage at home"
+    },
+    "PLAIN-805": {
+        "query1": "California Raisin Marketing Board information",
+        "query2": "California raisin marketing board contact",
+        "query3": "California raisin marketing board mission statement",
+        "query4": "California raisin marketing board history",
+        "query5": "California raisin marketing board services"
+    },
+    "PLAIN-816": {
+        "query1": "sweets",
+        "query2": "candies",
+        "query3": "treats",
+        "query4": "chocolates",
+        "query5": "desserts"
+    },
+    "PLAIN-826": {
+        "query1": "carboxymethyl cellulose",
+        "query2": "carboxymethylated cellulose",
+        "query3": "cellulose carboxymethyl ether",
+        "query4": "CMC cellulose",
+        "query5": "carboxymethylated wood pulp"
+    },
+    "PLAIN-837": {
+        "query1": "carotid artery disease",
+        "query2": "internal carotid artery",
+        "query3": "carotid artery blockage",
+        "query4": "carotid artery stenosis",
+        "query5": "carotid artery surgery"
+    },
+    "PLAIN-848": {
+        "query1": "felines",
+        "query2": "domestic cats",
+        "query3": "house cats",
+        "query4": "pet cats",
+        "query5": "cats as pets"
+    },
+    "PLAIN-859": {
+        "query1": "cellulite removal methods",
+        "query2": "cellulite reduction techniques",
+        "query3": "causes of dimpled skin and treatment options",
+        "query4": "ways to prevent and eliminate cellulite",
+        "query5": "exercises and creams for reducing cellulite appearance"
+    },
+    "PLAIN-871": {
+        "query1": "champagne grapes",
+        "query2": "champagne wine grapes",
+        "query3": "white wine grapes",
+        "query4": "champagne wine making grapes",
+        "query5": "pinot meunier grapes"
+    },
+    "PLAIN-881": {
+        "query1": "cancer treatment",
+        "query2": "chemo therapy",
+        "query3": "anticancer medication",
+        "query4": "cancer chemotherapy treatment",
+        "query5": "oncology treatment options"
+    },
+    "PLAIN-891": {
+        "query1": "chicken embryo lethal virus synonym",
+        "query2": "chicken embryo lethal virus alternative name",
+        "query3": "chicken embryo lethal virus synonymy",
+        "query4": "chicken embryo lethal virus other names",
+        "query5": "chicken embryo lethal virus nomenclature"
+    },
+    "PLAIN-901": {
+        "query1": "water treatment process",
+        "query2": "disinfection methods",
+        "query3": "water purification techniques",
+        "query4": "chemical water treatment",
+        "query5": "water sterilization methods"
+    },
+    "PLAIN-912": {
+        "query1": "coriander",
+        "query2": "Chinese parsley",
+        "query3": "Mexican parsley",
+        "query4": "dakshinaphal",
+        "query5": "dhania"
+    },
+    "PLAIN-923": {
+        "query1": "Coca-Cola products",
+        "query2": "Coca Cola company",
+        "query3": "Coca-Cola brand",
+        "query4": "Coca-Cola drinks",
+        "query5": "Coca-Cola beverages"
+    },
+    "PLAIN-933": {
+        "query1": "fish liver oil",
+        "query2": "cod oil",
+        "query3": "fish oil supplements",
+        "query4": "omega 3 oil from fish liver",
+        "query5": "vitamin d rich fish liver oil"
+    },
+    "PLAIN-945": {
+        "query1": "colon health",
+        "query2": "colon wellness and maintenance",
+        "query3": "colon health and digestive system",
+        "query4": "colon care and overall health benefits",
+        "query5": "colon and gut health and wellness"
+    },
+    "PLAIN-955": {
+        "query1": "baked goods",
+        "query2": "treats",
+        "query3": "sweets",
+        "query4": "edible desserts",
+        "query5": "baked confections"
+    },
+    "PLAIN-965": {
+        "query1": "Ivy League schools",
+        "query2": "top universities in New York",
+        "query3": "private colleges in Ithaca",
+        "query4": "universities with strong engineering programs",
+        "query5": "colleges with high academic reputation"
+    },
+    "PLAIN-976": {
+        "query1": "congenital hypothyroidism",
+        "query2": "infantile hypothyroidism",
+        "query3": "primary hypothyroidism in children",
+        "query4": "thyroid hormone deficiency in newborns",
+        "query5": "developmental delay due to thyroid dysfunction"
+    },
+    "PLAIN-986": {
+        "query1": "cucumbers near me",
+        "query2": "gherkins for sale",
+        "query3": "pickling cucumbers recipes",
+        "query4": "cucumber varieties for gardening",
+        "query5": "where to buy fresh cucumbers"
+    },
+    "PLAIN-996": {
+        "query1": "microtubule cytoskeleton",
+        "query2": "actin filaments cytoskeleton",
+        "query3": "cellular skeleton cytoskeleton",
+        "query4": "microfilament cytoskeleton",
+        "query5": "cytoskeletal structure"
+    },
+    "PLAIN-1007": {
+        "query1": "What are the effects of DDT on the environment?",
+        "query2": "What are the long-term consequences of using DDT as a pesticide?",
+        "query3": "How does DDT impact local ecosystems and wildlife populations?",
+        "query4": "What are the health risks associated with exposure to DDT?",
+        "query5": "What are the historical and current regulations surrounding the use of DDT?"
+    },
+    "PLAIN-1017": {
+        "query1": "removal of toxins",
+        "query2": "toxin elimination",
+        "query3": "purification of the body",
+        "query4": "detoxification process",
+        "query5": "elimination of waste products"
+    },
+    "PLAIN-1027": {
+        "query1": "nutrition recommendations",
+        "query2": "healthy eating guidelines",
+        "query3": "food pyramid guidelines",
+        "query4": "balanced diet suggestions",
+        "query5": "wellness nutrition advice"
+    },
+    "PLAIN-1038": {
+        "query1": "canines",
+        "query2": "puppies and adult dogs",
+        "query3": "man's best friend",
+        "query4": "domesticated canines",
+        "query5": "pet dogs"
+    },
+    "PLAIN-1049": {
+        "query1": "Dr. David Spence",
+        "query2": "David Spence MD",
+        "query3": "Dr. David Spence physician",
+        "query4": "David Spence medical professional",
+        "query5": "Dr. David Spence medical expert"
+    },
+    "PLAIN-1065": {
+        "query1": "Walter Kempner doctor",
+        "query2": "Dr. Walter Kempner research",
+        "query3": "Walter Kempner medical studies",
+        "query4": "Walter Kempner biography doctor",
+        "query5": "Walter Kempner physician background"
+    },
+    "PLAIN-1077": {
+        "query1": "dulse",
+        "query2": "dulse",
+        "query3": "dulse",
+        "query4": "dulse",
+        "query5": "dulse"
+    },
+    "PLAIN-1087": {
+        "query1": "Easter Island",
+        "query2": "Island of the Moai statues",
+        "query3": "Rapa Nui Island information",
+        "query4": "Easter Island statues",
+        "query5": "Moai statues on Rapa Nui Island"
+    },
+    "PLAIN-1097": {
+        "query1": "Automatic egg beaters for baking"
+    },
+    "PLAIN-1108": {
+        "query1": "cannabinoid system",
+        "query2": "anandamide research",
+        "query3": "endogenous cannabinoids",
+        "query4": "cannabinoid receptors and their ligands",
+        "query5": "natural pain relief compounds"
+    },
+    "PLAIN-1118": {
+        "query1": "power generation",
+        "query2": "electricity production",
+        "query3": "renewable energy sources",
+        "query4": "sustainable energy solutions",
+        "query5": "alternative energy systems"
+    },
+    "PLAIN-1129": {
+        "query1": "erectile dysfunction symptoms in men",
+        "query2": "treatment options for erectile dysfunction",
+        "query3": "common male sexual health issues and erectile dysfunction",
+        "query4": "causes and effects of erectile dysfunction in men",
+        "query5": "diagnosis and cure for erectile dysfunction in men"
+    },
+    "PLAIN-1140": {
+        "query1": "European Food Safety Authority",
+        "query2": "European Food Safety Authority",
+        "query3": "European Food Safety Authority",
+        "query4": "European Food Safety Authority",
+        "query5": "European Food Safety Authority"
+    },
+    "PLAIN-1150": {
+        "query1": "eye parasites in humans",
+        "query2": "parasites that infect the eyes",
+        "query3": "ocular parasites and their treatment",
+        "query4": "types of parasites that affect the eyes",
+        "query5": "eye infections caused by parasites"
+    },
+    "PLAIN-1160": {
+        "query1": "non-alcoholic fatty liver disease",
+        "query2": "fatty liver condition",
+        "query3": "steatosis liver disease",
+        "query4": "liver fat accumulation",
+        "query5": "hepatic steatosis symptoms"
+    },
+    "PLAIN-1171": {
+        "query1": "anise",
+        "query2": "fennel bulb",
+        "query3": "sweet anise",
+        "query4": "licorice plant",
+        "query5": "anethum"
+    },
+    "PLAIN-1181": {
+        "query1": "Figs similar to",
+        "query2": "Figs like",
+        "query3": "Figs comparable to",
+        "query4": "Figs similar in taste",
+        "query5": "Figs with similar flavor"
+    },
+    "PLAIN-1192": {
+        "query1": "flavonols",
+        "query2": "flavonols compounds",
+        "query3": "flavonoid compounds",
+        "query4": "plant flavonoids",
+        "query5": "polyphenolic flavonoids"
+    },
+    "PLAIN-1202": {
+        "query1": "vitamin b9",
+        "query2": "folic acid",
+        "query3": "methylfolate",
+        "query4": "folate deficiency",
+        "query5": "prenatal vitamin folate"
+    },
+    "PLAIN-1213": {
+        "query1": "formaldehyde chemical",
+        "query2": "methanal chemical properties",
+        "query3": "formaldehyde compound information",
+        "query4": "methanal uses and applications",
+        "query5": "formaldehyde chemical structure and formula"
+    },
+    "PLAIN-1224": {
+        "query1": "inulin",
+        "query2": "oligosaccharides",
+        "query3": "fructan-containing foods",
+        "query4": "galacto-fructans",
+        "query5": "polyfructose"
+    },
+    "PLAIN-1235": {
+        "query1": "galactose derivatives",
+        "query2": "galactose compounds",
+        "query3": "galactose chemistry",
+        "query4": "galactose metabolism",
+        "query5": "galactose biosynthesis"
+    },
+    "PLAIN-1245": {
+        "query1": "gastric emptying rate",
+        "query2": "gastric motility and emptying",
+        "query3": "stomach emptying time",
+        "query4": "gastric transit and emptying",
+        "query5": "delayed gastric emptying symptoms"
+    },
+    "PLAIN-1261": {
+        "query1": "eye pressure disease",
+        "query2": "optic nerve damage symptoms",
+        "query3": "vision loss due to eye condition",
+        "query4": "increased intraocular pressure treatment",
+        "query5": "blindness from glaucoma prevention"
+    },
+    "PLAIN-1273": {
+        "query1": "thyroid enlargement",
+        "query2": "goiter symptoms",
+        "query3": "enlarged thyroid gland",
+        "query4": "thyroid swelling",
+        "query5": "thyroid gland enlargement"
+    },
+    "PLAIN-1287": {
+        "query1": "grapefruit juice recipes",
+        "query2": "grapefruit juice benefits",
+        "query3": "homemade grapefruit juice",
+        "query4": "grapefruit juice nutrition facts",
+        "query5": "grapefruit juice vs orange juice"
+    },
+    "PLAIN-1298": {
+        "query1": "barbecuing",
+        "query2": "outdoor cooking",
+        "query3": "outdoor grilling",
+        "query4": "outdoor cooking techniques",
+        "query5": "outdoor food preparation methods"
+    },
+    "PLAIN-1308": {
+        "query1": "alopecia treatment options"
+    },
+    "PLAIN-1319": {
+        "query1": "Longitudinal study of female nurses' health outcomes and risk factors",
+        "query2": "Prospective cohort study of nurses' health and disease associations",
+        "query3": "Observational study of nurses' lifestyle and health outcomes over time",
+        "query4": "Retrospective analysis of nurses' health data and disease incidence",
+        "query5": "Cohort study of nurses' health behaviors and chronic disease risk"
+    },
+    "PLAIN-1330": {
+        "query1": "healthy food markets"
+    },
+    "PLAIN-1341": {
+        "query1": "Human cervical cancer cells",
+        "query2": "Cervical cancer cell line",
+        "query3": "HeLa cell line characteristics",
+        "query4": "Human cervical carcinoma cells",
+        "query5": "Cancer cell line HeLa"
+    },
+    "PLAIN-1352": {
+        "query1": "herbs",
+        "query2": "herbal remedies",
+        "query3": "medicinal plants",
+        "query4": "botanicals",
+        "query5": "natural remedies"
+    },
+    "PLAIN-1362": {
+        "query1": "hijiki seaweed nutrition",
+        "query2": "health benefits of Japanese brown seaweed",
+        "query3": "hijiki brown seaweed health benefits",
+        "query4": "what are the health benefits of hijiki seaweed",
+        "query5": "hijiki seaweed nutritional information"
+    },
+    "PLAIN-1373": {
+        "query1": "beneficial stress effects",
+        "query2": "stress adaptation mechanisms",
+        "query3": "adaptive stress responses",
+        "query4": "positive effects of stress on organisms",
+        "query5": "stress-induced cellular resilience"
+    },
+    "PLAIN-1386": {
+        "query1": "Hydroxycut weight loss supplement",
+        "query2": "Hydroxycut fat burning pills",
+        "query3": "Hydroxycut energy and weight loss",
+        "query4": "Hydroxycut diet pills for weight loss",
+        "query5": "Hydroxycut weight loss and energy booster"
+    },
+    "PLAIN-1397": {
+        "query1": "IgA antibodies",
+        "query2": "Immunoglobulin A",
+        "query3": "IgA immune response",
+        "query4": "Antibodies IgA",
+        "query5": "IgA levels"
+    },
+    "PLAIN-1408": {
+        "query1": "industrial waste pollutants",
+        "query2": "pollutants from industrial activities",
+        "query3": "industrial emissions and pollutants",
+        "query4": "environmental pollutants from industrial sources",
+        "query5": "industrial byproducts and pollutants"
+    },
+    "PLAIN-1418": {
+        "query1": "pesticides",
+        "query2": "insect killers",
+        "query3": "bug sprays",
+        "query4": "pest control chemicals",
+        "query5": "insecticides for gardens"
+    },
+    "PLAIN-1428": {
+        "query1": "iodine compounds",
+        "query2": "iodine uses",
+        "query3": "iodine properties",
+        "query4": "iodine applications",
+        "query5": "iodine chemistry"
+    },
+    "PLAIN-1440": {
+        "query1": "preserves",
+        "query2": "fruit spread",
+        "query3": "jelly",
+        "query4": "homemade jam",
+        "query5": "conserve"
+    },
+    "PLAIN-1451": {
+        "query1": "fruit juice",
+        "query2": "fresh juice",
+        "query3": "liquid extract",
+        "query4": "beverage made from fruit",
+        "query5": "fruit drink"
+    },
+    "PLAIN-1462": {
+        "query1": "kidney function",
+        "query2": "renal health",
+        "query3": "kidney disease symptoms",
+        "query4": "kidney stone treatment",
+        "query5": "kidney transplant options"
+    },
+    "PLAIN-1472": {
+        "query1": "kiwi fruit",
+        "query2": "kiwi fruit",
+        "query3": "kiwi fruit",
+        "query4": "kiwi fruit",
+        "query5": "kiwi fruit"
+    },
+    "PLAIN-1484": {
+        "query1": "lamb meat",
+        "query2": "young sheep",
+        "query3": "mutton alternative",
+        "query4": "sheep meat",
+        "query5": "spring lamb"
+    },
+    "PLAIN-1495": {
+        "query1": "phospholipid supplement"
+    },
+    "PLAIN-1505": {
+        "query1": "leafy greens",
+        "query2": "green leafy vegetables",
+        "query3": "crunchy salad ingredients",
+        "query4": "fresh garden greens",
+        "query5": "salad mix"
+    },
+    "PLAIN-1515": {
+        "query1": "limonin",
+        "query2": "limonoids or citrus flavonoids",
+        "query3": "limonoids or bitter compounds found in citrus",
+        "query4": "limonoids or compounds responsible for bitterness in citrus",
+        "query5": "limonoids or flavonoids found in citrus peel"
+    },
+    "PLAIN-1526": {
+        "query1": "liver cancer treatment",
+        "query2": "hepatocellular carcinoma symptoms",
+        "query3": "liver cancer causes and risk factors",
+        "query4": "liver cancer diagnosis and prognosis",
+        "query5": "liver cancer staging and survival rates"
+    },
+    "PLAIN-1536": {
+        "query1": "lovastatin",
+        "query2": "lovastatin medication",
+        "query3": "lovastatin cholesterol lowering",
+        "query4": "side effects of lovastatin",
+        "query5": "lovastatin for high cholesterol"
+    },
+    "PLAIN-1546": {
+        "query1": "lycopene benefits",
+        "query2": "lycopene antioxidant properties",
+        "query3": "what is lycopene and its uses",
+        "query4": "lycopene rich foods and their effects",
+        "query5": "lycopene supplements and their health benefits"
+    },
+    "PLAIN-1556": {
+        "query1": "insect larvae",
+        "query2": "fly eggs",
+        "query3": "worms in meat",
+        "query4": "crawling insects in food",
+        "query5": "insect infestation in decaying matter"
+    },
+    "PLAIN-1567": {
+        "query1": "MAO Inhibitors",
+        "query2": "Monoamine Oxidase Inhibitors",
+        "query3": "MAOIs",
+        "query4": "Selective Monoamine Oxidase Inhibitors",
+        "query5": "Antidepressant MAO Inhibitors"
+    },
+    "PLAIN-1578": {
+        "query1": "breast removal surgery",
+        "query2": "double mastectomy",
+        "query3": "breast cancer surgery",
+        "query4": "removal of breast tissue",
+        "query5": "surgical removal of breast"
+    },
+    "PLAIN-1589": {
+        "query1": "medical education research",
+        "query2": "healthcare education studies",
+        "query3": "medical school curriculum development",
+        "query4": "educational programs in medicine",
+        "query5": "medical education policy and reform"
+    },
+    "PLAIN-1600": {
+        "query1": "MelQx-related compounds",
+        "query2": "N-nitrosated tobacco-specific nitrosamines",
+        "query3": "Tobacco-specific N-nitrosamines and their metabolites",
+        "query4": "Metabolites of N-nitrosated tobacco-specific nitrosamines",
+        "query5": "N-nitroso compounds in tobacco smoke"
+    },
+    "PLAIN-1610": {
+        "query1": "asbestos cancer",
+        "query2": "malignant pleural mesothelioma",
+        "query3": "asbestos exposure symptoms",
+        "query4": "pleural mesothelioma treatment",
+        "query5": "asbestos lung disease"
+    },
+    "PLAIN-1620": {
+        "query1": "methylmalonic acid levels",
+        "query2": "methylmalonate",
+        "query3": "methylmalonic acidemia",
+        "query4": "methylmalonic acid test",
+        "query5": "methylmalonic aciduria"
+    },
+    "PLAIN-1634": {
+        "query1": "headaches",
+        "query2": "migraine symptoms",
+        "query3": "severe headaches",
+        "query4": "cluster headaches",
+        "query5": "tension headaches"
+    },
+    "PLAIN-1644": {
+        "query1": "organelles",
+        "query2": "cellular components",
+        "query3": "cellular structures",
+        "query4": "intracellular organelles",
+        "query5": "cellular organelles"
+    },
+    "PLAIN-1655": {
+        "query1": "death rate",
+        "query2": "fatality rate",
+        "query3": "mortality rate statistics",
+        "query4": "cause of death",
+        "query5": "life expectancy vs mortality"
+    },
+    "PLAIN-1666": {
+        "query1": "muscle disorder",
+        "query2": "muscle condition",
+        "query3": "muscle weakness disease",
+        "query4": "myopathy",
+        "query5": "muscle wasting disease"
+    },
+    "PLAIN-1678": {
+        "query1": "mycotoxins in food",
+        "query2": "toxins produced by fungi in food",
+        "query3": "fungal contaminants in grains and cereals",
+        "query4": "toxic compounds from mold growth",
+        "query5": "mycotoxin contamination in agricultural products"
+    },
+    "PLAIN-1689": {
+        "query1": "nasal irrigation techniques",
+        "query2": "nasal saline rinse",
+        "query3": "nasal congestion relief methods",
+        "query4": "nasal decongestion with irrigation",
+        "query5": "nasal cleansing with saline solution"
+    },
+    "PLAIN-1699": {
+        "query1": "National Pork Producers Council",
+        "query2": "Pork Council of America",
+        "query3": "American Pork Producers Association",
+        "query4": "National Swine Producers Council",
+        "query5": "United States Pork Council"
+    },
+    "PLAIN-1709": {
+        "query1": "Neu5Gc synonyms",
+        "query2": "Neu5Gc definition",
+        "query3": "Neu5Gc function",
+        "query4": "Neu5Gc structure",
+        "query5": "Neu5Gc biological role"
+    },
+    "PLAIN-1720": {
+        "query1": "What are the health effects of consuming nightshades?",
+        "query2": "Information on nightshade vegetables and their impact on the body",
+        "query3": "Nightshade foods: benefits and drawbacks for human health",
+        "query4": "How do nightshades affect people with sensitive stomachs?",
+        "query5": "Nightshade vegetables: are they good or bad for you?"
+    },
+    "PLAIN-1740": {
+        "query1": "vegan cheese substitute",
+        "query2": "nutritional yeast benefits",
+        "query3": "cheesy flavoring for plant-based dishes",
+        "query4": "nutritional yeast recipes",
+        "query5": "cheese alternative for vegans"
+    },
+    "PLAIN-1750": {
+        "query1": "lubricants",
+        "query2": "motor oils",
+        "query3": "engine oils",
+        "query4": "petroleum products",
+        "query5": "fuel additives"
+    },
+    "PLAIN-1761": {
+        "query1": "oral health",
+        "query2": "dental care and hygiene",
+        "query3": "oral hygiene and mouth health",
+        "query4": "oral health and gum disease prevention",
+        "query5": "dental wellness and oral health maintenance"
+    },
+    "PLAIN-1771": {
+        "query1": "organochlorine compounds",
+        "query2": "chlorinated organic compounds",
+        "query3": "persistent organic pollutants (pops) related to chlorines",
+        "query4": "chlorinated pesticides and their effects",
+        "query5": "environmental impact of chlorinated hydrocarbons"
+    },
+    "PLAIN-1783": {
+        "query1": "oxalate compounds",
+        "query2": "oxalic acid",
+        "query3": "oxalate content",
+        "query4": "oxalate rich foods",
+        "query5": "oxalate levels in food"
+    },
+    "PLAIN-1793": {
+        "query1": "palmitic acid",
+        "query2": "palmitic acid molecule",
+        "query3": "saturated fatty acid palmitic",
+        "query4": "palmitate chemical structure",
+        "query5": "hexadecanoic acid chemical properties"
+    },
+    "PLAIN-1804": {
+        "query1": "parasites in humans",
+        "query2": "types of parasites that infect humans",
+        "query3": "parasitic infections in humans",
+        "query4": "human parasites and their effects",
+        "query5": "parasites that cause disease in humans"
+    },
+    "PLAIN-1816": {
+        "query1": "peach fruit",
+        "query2": "peach tree",
+        "query3": "peach recipes",
+        "query4": "peach varieties",
+        "query5": "peach nutrition facts"
+    },
+    "PLAIN-1826": {
+        "query1": "average penis size",
+        "query2": "male genital size",
+        "query3": "penis length and girth",
+        "query4": "normal penis size range",
+        "query5": "average male genital size"
+    },
+    "PLAIN-1836": {
+        "query1": "persistent organic pollutants synonyms",
+        "query2": "toxic organic compounds",
+        "query3": "long-lasting environmental pollutants",
+        "query4": "persistent organic pollutants list",
+        "query5": "harmful organic substances in the environment"
+    },
+    "PLAIN-1846": {
+        "query1": "polycyclic aromatic hydrocarbons",
+        "query2": "plant polyphenols",
+        "query3": "phenolic compounds",
+        "query4": "flavonoids and phenolic acids",
+        "query5": "bioactive phenolic compounds"
+    },
+    "PLAIN-1856": {
+        "query1": "inhibitors of zinc absorption",
+        "query2": "phytic acid compounds",
+        "query3": "antinutrients in plant-based foods",
+        "query4": "zinc-binding compounds in plants",
+        "query5": "phytate-related nutrient deficiencies"
+    },
+    "PLAIN-1866": {
+        "query1": "pineapple juice recipes",
+        "query2": "fresh pineapple juice",
+        "query3": "homemade pineapple juice",
+        "query4": "pineapple juice near me",
+        "query5": "how to make pineapple juice at home"
+    },
+    "PLAIN-1876": {
+        "query1": "plant-based protein",
+        "query2": "vegetable protein sources",
+        "query3": "legume protein",
+        "query4": "plant-based protein sources",
+        "query5": "protein from plant foods"
+    },
+    "PLAIN-1886": {
+        "query1": "pneumococcal vaccine",
+        "query2": "pneumonia vaccine",
+        "query3": "pneumococcal conjugate vaccine",
+        "query4": "PCV vaccine",
+        "query5": "pneumococcal polysaccharide vaccine"
+    },
+    "PLAIN-1896": {
+        "query1": "antioxidant compounds",
+        "query2": "plant-derived polyphenols",
+        "query3": "phenolic compounds in food",
+        "query4": "bioactive compounds with antioxidant properties",
+        "query5": "phytochemicals with antioxidant activity"
+    },
+    "PLAIN-1907": {
+        "query1": "swine endogenous retroviruses",
+        "query2": "pig endogenous retrovirus",
+        "query3": "PERV (porcine endogenous retrovirus)",
+        "query4": "endogenous retroviruses in pigs",
+        "query5": "retroviral elements in swine genome"
+    },
+    "PLAIN-1918": {
+        "query1": "poultry diseases caused by viruses",
+        "query2": "viruses affecting poultry health",
+        "query3": "avian viruses in poultry",
+        "query4": "viral infections in poultry farms",
+        "query5": "poultry viruses and their impact on animal health"
+    },
+    "PLAIN-1928": {
+        "query1": "premenstrual syndrome symptoms",
+        "query2": "menstrual cycle disorder symptoms",
+        "query3": "premenstrual syndrome symptoms",
+        "query4": "premenstrual syndrome symptoms",
+        "query5": "premenstrual syndrome symptoms"
+    },
+    "PLAIN-1939": {
+        "query1": "cured meats",
+        "query2": "preserved meats",
+        "query3": "smoked meats",
+        "query4": "fermented meats",
+        "query5": "cooked meats"
+    },
+    "PLAIN-1949": {
+        "query1": "Fluoxetine",
+        "query2": "Prozac medication",
+        "query3": "Fluoxetine hydrochloride",
+        "query4": "Antidepressant medication",
+        "query5": "Selective serotonin reuptake inhibitor"
+    },
+    "PLAIN-1961": {
+        "query1": "blood clot in the lung",
+        "query2": "lung embolism",
+        "query3": "pulmonary artery blockage",
+        "query4": "clot in the pulmonary artery",
+        "query5": "embolism in the lungs"
+    },
+    "PLAIN-1971": {
+        "query1": "quercetin supplements",
+        "query2": "quercetin benefits",
+        "query3": "quercetin extract",
+        "query4": "quercetin side effects",
+        "query5": "quercetin for inflammation"
+    },
+    "PLAIN-1982": {
+        "query1": "Ranking popular foods by nutritional value",
+        "query2": "List of healthy foods ranked by calorie count",
+        "query3": "Top foods by macronutrient content",
+        "query4": "Ranking foods by their glycemic index",
+        "query5": "Comparing the nutritional profiles of different foods"
+    },
+    "PLAIN-1994": {
+        "query1": "red onion recipes",
+        "query2": "red onion uses",
+        "query3": "how to use red onions",
+        "query4": "red onion cooking",
+        "query5": "recipes with red onions"
+    },
+    "PLAIN-2007": {
+        "query1": "Reversing chronic conditions",
+        "query2": "Reversing long-term illnesses",
+        "query3": "Reversing persistent health issues",
+        "query4": "Reversing chronic diseases and conditions",
+        "query5": "Reversing long-standing health problems"
+    },
+    "PLAIN-2018": {
+        "query1": "Richard Dawkins author",
+        "query2": "Richard Dawkins biography",
+        "query3": "Richard Dawkins books",
+        "query4": "Richard Dawkins quotes",
+        "query5": "Richard Dawkins scientist"
+    },
+    "PLAIN-2029": {
+        "query1": "recipes using rutabaga",
+        "query2": "cooking rutabaga methods",
+        "query3": "nutritional information about rutabaga",
+        "query4": "comparison between rutabaga and turnip",
+        "query5": "recipe for roasting rutabaga"
+    },
+    "PLAIN-2039": {
+        "query1": "spit",
+        "query2": "drool",
+        "query3": "oral secretion",
+        "query4": "mucous substance",
+        "query5": "gob of spit"
+    },
+    "PLAIN-2050": {
+        "query1": "increase fat intake",
+        "query2": "add more fat to diet",
+        "query3": "boost fat consumption",
+        "query4": "maximize fat absorption",
+        "query5": "optimize fat levels in body"
+    },
+    "PLAIN-2060": {
+        "query1": "sea vegetables",
+        "query2": "ocean greens",
+        "query3": "marine algae",
+        "query4": "seaweed varieties",
+        "query5": "coastal seaweeds"
+    },
+    "PLAIN-2070": {
+        "query1": "olfactory perception",
+        "query2": "scent detection",
+        "query3": "smell recognition",
+        "query4": "olfactory system",
+        "query5": "pheromone detection"
+    },
+    "PLAIN-2080": {
+        "query1": "rams",
+        "query2": "lamb",
+        "query3": "sheep farming",
+        "query4": "ovine",
+        "query5": "pasture animals"
+    },
+    "PLAIN-2091": {
+        "query1": "sinus infection",
+        "query2": "sinusitis symptoms",
+        "query3": "chronic sinusitis treatment",
+        "query4": "acute sinusitis causes",
+        "query5": "sinusitis relief remedies"
+    },
+    "PLAIN-2101": {
+        "query1": "smoked foods recipes",
+        "query2": "barbecued and smoked dishes",
+        "query3": "smoked meats and side dishes",
+        "query4": "grilled and smoked food ideas",
+        "query5": "smoked delicacies and cuisine"
+    },
+    "PLAIN-2112": {
+        "query1": "baking soda",
+        "query2": "sodium hydrogen carbonate",
+        "query3": "bicarbonate of soda",
+        "query4": "sodium carbonate",
+        "query5": "sodium bicarb"
+    },
+    "PLAIN-2123": {
+        "query1": "Spain travel",
+        "query2": "Country in Europe",
+        "query3": "Ibiza and Barcelona",
+        "query4": "Spanish culture and history",
+        "query5": "Madrid and Seville"
+    },
+    "PLAIN-2133": {
+        "query1": "spirulina benefits",
+        "query2": "what is spirulina good for",
+        "query3": "spirulina supplements",
+        "query4": "spirulina powder nutrition",
+        "query5": "spirulina health benefits"
+    },
+    "PLAIN-2144": {
+        "query1": "Selective serotonin reuptake inhibitors",
+        "query2": "SSRI medications",
+        "query3": "Antidepressant medications that increase serotonin",
+        "query4": "Serotonin reuptake inhibitors",
+        "query5": "Medications that affect serotonin levels"
+    },
+    "PLAIN-2155": {
+        "query1": "anabolic hormones",
+        "query2": "performance-enhancing substances",
+        "query3": "muscle-building supplements",
+        "query4": "bodybuilding aids",
+        "query5": "athletic performance enhancers"
+    },
+    "PLAIN-2166": {
+        "query1": "brain attack",
+        "query2": "cerebral vascular accident",
+        "query3": "cerebrovascular accident",
+        "query4": "vascular accident in the brain",
+        "query5": "cerebral hemorrhage or ischemia"
+    },
+    "PLAIN-2176": {
+        "query1": "sulforaphane",
+        "query2": "benefits of sulforaphane",
+        "query3": "sulforaphane dietary supplement",
+        "query4": "sulforaphane extract benefits",
+        "query5": "sulforaphane health benefits"
+    },
+    "PLAIN-2186": {
+        "query1": "vitamins",
+        "query2": "dietary supplements",
+        "query3": "health boosters",
+        "query4": "nutritional additives",
+        "query5": "food enhancers"
+    },
+    "PLAIN-2196": {
+        "query1": "sweet potatoes recipes",
+        "query2": "yam recipes",
+        "query3": "orange potatoes",
+        "query4": "sweet potato dishes",
+        "query5": "root vegetables recipes"
+    },
+    "PLAIN-2208": {
+        "query1": "tapeworms",
+        "query2": "intestinal parasites",
+        "query3": "cestodes",
+        "query4": "tapeworm infections",
+        "query5": "dipylidium caninum"
+    },
+    "PLAIN-2219": {
+        "query1": "telomeres OR telomere OR telomeric OR chromosome ends OR terminal repeats OR TTAGGG OR TTAGG",
+        "query2": "telomere maintenance OR telomere length regulation OR telomerase activity OR telomere shortening OR telomere lengthening",
+        "query3": "chromosome ends OR terminal repeats OR telomeres OR TTAGGG OR TTAGG OR chromosome caps",
+        "query4": "telomere biology OR telomere function OR telomere dynamics OR telomere replication OR telomere repair",
+        "query5": "telomere length regulation OR telomere maintenance OR telomere lengthening OR telomere shortening OR telomerase activity"
+    },
+    "PLAIN-2229": {
+        "query1": "heat production supplements",
+        "query2": "fat burning pills",
+        "query3": "weight loss thermogenic products",
+        "query4": "metabolism boosters",
+        "query5": "energy increasing supplements"
+    },
+    "PLAIN-2239": {
+        "query1": "tick bites",
+        "query2": "tick infestations",
+        "query3": "tick bites and tick-borne diseases",
+        "query4": "tick transmitted diseases",
+        "query5": "tick bites symptoms and tick bite treatment"
+    },
+    "PLAIN-2249": {
+        "query1": "oral cancer",
+        "query2": "cancer of the tongue",
+        "query3": "tongue malignancy",
+        "query4": "cancer that affects the tongue",
+        "query5": "tongue cancer symptoms"
+    },
+    "PLAIN-2260": {
+        "query1": "trans fatty acids",
+        "query2": "trans fats in food",
+        "query3": "hydrogenated oils",
+        "query4": "partially hydrogenated oils",
+        "query5": "unsaturated fats vs saturated fats"
+    },
+    "PLAIN-2270": {
+        "query1": "tryptophan amino acid",
+        "query2": "tryptophan essential amino acid",
+        "query3": "tryptophan protein building block",
+        "query4": "tryptophan neurotransmitter precursor",
+        "query5": "tryptophan serotonin production"
+    },
+    "PLAIN-2280": {
+        "query1": "curcuma",
+        "query2": "curcuma longa",
+        "query3": "golden spice",
+        "query4": "yellow spice",
+        "query5": "curry powder ingredient"
+    },
+    "PLAIN-2290": {
+        "query1": "inflammatory bowel disease",
+        "query2": "ulcerative colitis symptoms",
+        "query3": "colitis treatment options",
+        "query4": "chronic inflammatory bowel disease",
+        "query5": "colitis diagnosis and management"
+    },
+    "PLAIN-2300": {
+        "query1": "uterine cancer symptoms",
+        "query2": "endometrial cancer treatment options",
+        "query3": "cancer of the uterus causes",
+        "query4": "uterine cancer diagnosis and prognosis",
+        "query5": "endometrial cancer stages and survival rates"
+    },
+    "PLAIN-2310": {
+        "query1": "petroleum jelly benefits"
+    },
+    "PLAIN-2320": {
+        "query1": "veggie burgers near me",
+        "query2": "plant-based burgers recipes",
+        "query3": "meatless burgers options",
+        "query4": "vegetarian burgers for sale",
+        "query5": "healthy veggie burger alternatives"
+    },
+    "PLAIN-2331": {
+        "query1": "Vioxx side effects",
+        "query2": "Rofecoxib side effects",
+        "query3": "Merck Vioxx lawsuit",
+        "query4": "Vioxx recall information",
+        "query5": "Rofecoxib medication risks"
+    },
+    "PLAIN-2342": {
+        "query1": "vitamin E benefits",
+        "query2": "tocopherol supplements",
+        "query3": "antioxidant vitamin",
+        "query4": "vitamin E deficiency symptoms",
+        "query5": "alpha-tocopherol nutrition"
+    },
+    "PLAIN-2353": {
+        "query1": "walnut tree",
+        "query2": "English walnut",
+        "query3": "black walnut",
+        "query4": "walnut wood",
+        "query5": "walnut kernel"
+    },
+    "PLAIN-2363": {
+        "query1": "invasive plants",
+        "query2": "wild growth",
+        "query3": "unwanted vegetation",
+        "query4": "noxious weeds",
+        "query5": "persistent plant species"
+    },
+    "PLAIN-2374": {
+        "query1": "Whitecoat project research",
+        "query2": "Whitecoat project study findings",
+        "query3": "Whitecoat project investigation results",
+        "query4": "Whitecoat project data analysis",
+        "query5": "Whitecoat project outcomes and implications"
+    },
+    "PLAIN-2385": {
+        "query1": "World Health Organization information",
+        "query2": "WHO data and statistics",
+        "query3": "Global health organization research",
+        "query4": "International health organization news",
+        "query5": "Global health organization reports"
+    },
+    "PLAIN-2395": {
+        "query1": "sugar substitute",
+        "query2": "xylitol alternatives",
+        "query3": "low-calorie sweetener",
+        "query4": "natural sweetener options",
+        "query5": "non-sugar sweetener"
+    },
+    "PLAIN-2407": {
+        "query1": "zingerone chemical structure",
+        "query2": "zingerone molecular formula",
+        "query3": "properties of zingerone",
+        "query4": "zingerone uses in medicine",
+        "query5": "zingerone benefits and side effects"
+    },
+    "PLAIN-2429": {
+        "query1": "The Evolution of Diverticulosis: A Historical Perspective on the Rise of a Common Gut Condition",
+        "query2": "From Rare to Common: The Emergence of Diverticulosis as a Prevalent Gut Disorder",
+        "query3": "The Unseen History of Diverticulosis: How a Once Rare Condition Became a Common Gut Problem",
+        "query4": "Diverticulosis: A Historical Analysis of the Gut Disorder's Increasing Prevalence",
+        "query5": "The Rise of Diverticulosis: Uncovering the Factors Behind the Growing Incidence of a Common Gut Condition"
+    },
+    "PLAIN-2439": {
+        "query1": "From Table to Table: Harnessing the Power of Nutrition to Overcome Debilitating Conditions",
+        "query2": "From Kitchen to Cure: Using Food as a Tool to Combat Chronic Diseases",
+        "query3": "From Farm to Health: Exploring the Connection Between Diet and Disability",
+        "query4": "From Plate to Prevention: The Role of Nutrition in Managing Disabling Illnesses",
+        "query5": "From Food to Function: Unlocking the Potential of Nutrition to Overcome Debilitating Diseases"
+    },
+    "PLAIN-2449": {
+        "query1": "How to Make a Homemade Fruit and Vegetable Cleaner to Remove Pesticides and Dirt",
+        "query2": "DIY Fruit and Vegetable Cleaning Solution to Keep Your Produce Fresh and Clean",
+        "query3": "Natural Fruit and Vegetable Wash Recipe to Remove Pesticides and Bacteria",
+        "query4": "Homemade Fruit and Vegetable Cleaning Spray to Keep Your Produce Clean and Fresh",
+        "query5": "How to Make a Fruit and Vegetable Cleaning Solution at Home to Remove Dirt and Pesticides"
+    },
+    "PLAIN-2459": {
+        "query1": "How to Reduce the Risk of a Stroke",
+        "query2": "Preventing a Stroke: What You Need to Know",
+        "query3": "Stroke Prevention: Tips and Strategies",
+        "query4": "How to Lower Your Chances of Having a Stroke",
+        "query5": "What Can I Do to Prevent a Stroke from Happening"
+    },
+    "PLAIN-2469": {
+        "query1": "Does White Rice Consumption Contribute to Diabetes Prevalence in China?",
+        "query2": "Link Between White Rice and Diabetes in China: What's the Impact?",
+        "query3": "White Rice and Diabetes Risk in China: A Growing Concern?",
+        "query4": "The Relationship Between White Rice and Diabetes in Chinese Population: A Study",
+        "query5": "Can White Rice Consumption Explain High Diabetes Rates in China?"
+    },
+    "PLAIN-2479": {
+        "query1": "Stool pH levels and their association with colon cancer",
+        "query2": "Colon cancer risk factors: the role of stool pH",
+        "query3": "Relationship between stool acidity and colon cancer development",
+        "query4": "Stool pH as a biomarker for colon cancer",
+        "query5": "The impact of stool pH on colon cancer incidence and mortality"
+    },
+    "PLAIN-2489": {
+        "query1": "Why prevention is more valuable than treating a problem after it occurs.",
+        "query2": "Is it more cost-effective to prevent problems from happening in the first place?",
+        "query3": "Why is it often more beneficial to prevent issues rather than treating them after they arise?",
+        "query4": "Is preventing problems from occurring more valuable than treating them after they happen?",
+        "query5": "What are the benefits of investing time and resources into preventing problems rather than treating them after they occur?"
+    },
+    "PLAIN-2499": {
+        "query1": "Bias in Saturated Fat Research: A Critical Examination",
+        "query2": "Saturated Fat Research: Methodological Issues and Limitations",
+        "query3": "The Impact of Methodological Flaws on Saturated Fat Research",
+        "query4": "The Role of Methodological Bias in Saturated Fat Studies",
+        "query5": "Saturated Fat Research: A Critical Look at Study Design and Outcomes"
+    },
+    "PLAIN-2509": {
+        "query1": "Poultry and Obesity: A Study on Chicken Consumption",
+        "query2": "The Relationship Between Chicken Consumption and Obesity in Humans",
+        "query3": "Obesity Risk Factors: The Impact of Poultry, Specifically Chicken, on Human Health",
+        "query4": "Chicken Consumption and Its Link to Obesity: A Review of the Literature",
+        "query5": "The Effects of Poultry Meat, Particularly Chicken, on Obesity and Weight Gain"
+    },
+    "PLAIN-2519": {
+        "query1": "How Much Added Sugar Is Too Much for My Diet?",
+        "query2": "What Is the Safe Limit of Added Sugars in Daily Intake?",
+        "query3": "How Can I Determine If I'm Consuming Too Much Added Sugar?",
+        "query4": "What Are the Risks of Excessive Added Sugar Consumption?",
+        "query5": "How Much Sugar Should I Limit My Daily Intake To?"
+    },
+    "PLAIN-2529": {
+        "query1": "What nutrients are lost when juicing fruits and vegetables?",
+        "query2": "What essential vitamins and minerals are removed during the juicing process?",
+        "query3": "What are the nutritional drawbacks of consuming only juice from fruits and vegetables?",
+        "query4": "What other vital nutrients are sacrificed when you choose to juice instead of eat whole foods?",
+        "query5": "What essential nutrients are compromised when you extract the juice from fruits and vegetables?"
+    },
+    "PLAIN-2539": {
+        "query1": "What's the difference between cooked beans and sprouted beans?",
+        "query2": "Which is better, cooked beans or sprouted beans?",
+        "query3": "How do cooked beans compare to sprouted beans?",
+        "query4": "Are sprouted beans healthier than cooked beans?",
+        "query5": "What are the benefits of cooking beans versus sprouting them?"
+    },
+    "PLAIN-2549": {
+        "query1": "Egg industry manipulation of research findings",
+        "query2": "Egg industry manipulation of research data",
+        "query3": "Egg industry influence on scientific studies",
+        "query4": "Egg Board's role in misleading research findings",
+        "query5": "Egg industry manipulation of scientific data"
+    },
+    "PLAIN-2559": {
+        "query1": "Chlorella treatment for Hepatitis C",
+        "query2": "Using Chlorella to cure Hepatitis C",
+        "query3": "Chlorella supplements for Hepatitis C patients",
+        "query4": "Chlorella and Hepatitis C treatment",
+        "query5": "Chlorella as a natural remedy for Hepatitis C"
+    },
+    "PLAIN-2569": {
+        "query1": "Prevent cancer from spreading on the tor network",
+        "query2": "stop cancer propagation on tor network",
+        "query3": "prevent tor network from spreading cancer",
+        "query4": "cancer prevention on the tor network",
+        "query5": "block cancer from spreading on tor network"
+    },
+    "PLAIN-2579": {
+        "query1": "Alzheimer's Disease: Grain Brain or Meat Lover?",
+        "query2": "Alzheimer's and Nutrition: Grain Consumption vs Meat Diet",
+        "query3": "Meat or Grain: Which Diet Increases Risk of Alzheimer's Disease?",
+        "query4": "Alzheimer's Disease and the Meat vs Grain Diet Controversy",
+        "query5": "Is a Meat-Based Diet Linked to Alzheimer's or is it a Grain-Based Diet?"
+    },
+    "PLAIN-2589": {
+        "query1": "Anti-inflammatory lifestyle is a bowl of cherries",
+        "query2": "Inflammation-free life is a bowl of cherries",
+        "query3": "A life free from inflammation is a bowl of cherries",
+        "query4": "Living an anti-inflammatory lifestyle is a dream come true",
+        "query5": "A life of reduced inflammation is a bowl of cherries"
+    },
+    "PLAIN-2599": {
+        "query1": "Alpha gal allergy and lone star tick bite",
+        "query2": "Symptoms of lone star tick bite and alpha gal allergy",
+        "query3": "Causes of alpha gal allergy related to lone star tick",
+        "query4": "Tick bite symptoms and alpha gal allergy symptoms",
+        "query5": "Alpha gal allergy and lone star tick exposure risks"
+    },
+    "PLAIN-2609": {
+        "query1": "Treating Asthma and Eczema with Plant-Based Nutrition",
+        "query2": "Plant-Based Diets for Asthma and Eczema Relief",
+        "query3": "Asthma and Eczema Treatment with Vegan and Vegetarian Diets",
+        "query4": "The Benefits of Plant-Based Eating for Asthma and Eczema Sufferers",
+        "query5": "Using a Plant-Based Diet to Manage Asthma and Eczema Symptoms"
+    },
+    "PLAIN-2619": {
+        "query1": "Comprehensive and Informed Heart Disease Treatment Options",
+        "query2": "Patient-Centered Approach to Heart Disease Management and Treatment",
+        "query3": "Informed Consent and Treatment for Heart Disease Patients",
+        "query4": "Heart Disease Treatment Plans with Full Patient Involvement",
+        "query5": "Collaborative and Consensual Heart Disease Treatment Strategies"
+    },
+    "PLAIN-2629": {
+        "query1": "Sources of Alkylphenol Endocrine Disruptors in Food",
+        "query2": "Alkylphenol Endocrine Disruptors in Dietary Products",
+        "query3": "Endocrine Disrupting Chemicals in Food Sources",
+        "query4": "Dietary Exposure to Alkylphenol Endocrine Disruptors",
+        "query5": "Alkylphenol Endocrine Disruptors in Common Foods"
+    },
+    "PLAIN-2639": {
+        "query1": "Who is responsible for ensuring the safety of food additives?",
+        "query2": "What agencies or organizations determine the safety of food additives?",
+        "query3": "Which government agencies or organizations assess the safety of food additives?",
+        "query4": "What organizations or agencies give the green light for the use of food additives in food products?",
+        "query5": "Which government agencies or organizations are responsible for monitoring the safety of food additives?"
+    },
+    "PLAIN-2649": {
+        "query1": "Improving the Absorption of Curcumin",
+        "query2": "Enhancing the Bioavailability of Curcumin Supplements",
+        "query3": "Increasing the Solubility of Curcumin for Better Absorption",
+        "query4": "Optimizing the Delivery of Curcumin for Enhanced Efficacy",
+        "query5": "Increasing the Bioavailability of Curcumin for Therapeutic Benefits"
+    },
+    "PLAIN-2659": {
+        "query1": "Comparison of Greens and Glaucoma",
+        "query2": "Glaucoma vs. Greens: What's the difference?",
+        "query3": "Greens vs. Glaucoma: A Comparative Analysis",
+        "query4": "Glaucoma vs. Greens: Similarities and Differences",
+        "query5": "A Study on Greens and Glaucoma: Similarities and Distinctions"
+    },
+    "PLAIN-2669": {
+        "query1": "Analysis of Chicken Nuggets",
+        "query2": "Examination of Chicken Nuggets",
+        "query3": "Breakdown of Chicken Nuggets",
+        "query4": "Study of Chicken Nuggets Structure",
+        "query5": "Investigation of Chicken Nuggets Ingredients"
+    },
+    "PLAIN-2679": {
+        "query1": "Phosphate additives in meat by-products and cola",
+        "query2": "Phosphate preservatives in meat by-products and cola",
+        "query3": "Phosphate additives in meat by-products and cola-based drinks",
+        "query4": "Phosphate additives in meat by-products and cola products",
+        "query5": "Phosphate preservatives in meat by-products and cola flavourings"
+    },
+    "PLAIN-2689": {
+        "query1": "Optimizing Athletic Recovery Techniques to Preserve Adaptation Gains",
+        "query2": "Strategies for Enhancing Athletic Recovery Without Compromising Adaptation",
+        "query3": "Balancing Athletic Recovery and Adaptation: A Critical Review",
+        "query4": "The Impact of Recovery Methods on Athletic Adaptation: A Systematic Analysis",
+        "query5": "Recovery Strategies for Athletes: Balancing Rest and Adaptation"
+    },
+    "PLAIN-2699": {
+        "query1": "Swank MS diet for multiple sclerosis treatment",
+        "query2": "Multiple sclerosis management with Swank diet",
+        "query3": "Swank diet for multiple sclerosis treatment options",
+        "query4": "Swank diet for multiple sclerosis patients",
+        "query5": "Swank diet plan for multiple sclerosis treatment"
+    },
+    "PLAIN-2709": {
+        "query1": "Tips for Encouraging Kids to Eat Healthy Meals at School",
+        "query2": "Ways to Get Children to Eat Nutritious Food at School",
+        "query3": "Strategies for Promoting Healthy Eating Habits in School-Aged Kids",
+        "query4": "Ideas for Helping Kids Make Healthier Food Choices at School",
+        "query5": "Advice for Parents on How to Get Kids to Eat Healthier at School"
+    },
+    "PLAIN-2719": {
+        "query1": "Reducing Muscle Soreness with Citrus Fruits",
+        "query2": "Citrus Juice and Muscle Fatigue Relief",
+        "query3": "Using Citrus to Combat Muscle Fatigue",
+        "query4": "Citrus-Based Remedies for Muscle Recovery",
+        "query5": "Citrus Fruits and Exercise-Induced Muscle Fatigue"
+    },
+    "PLAIN-2729": {
+        "query1": "Fighting depression with a healthy diet",
+        "query2": "Using green foods to combat mental health issues",
+        "query3": "Eating greens to reduce stress and anxiety",
+        "query4": "Using a plant-based diet to fight depression",
+        "query5": "The benefits of eating green vegetables for mental well-being"
+    },
+    "PLAIN-2739": {
+        "query1": "Do Dental X-Rays Increase the Risk of Brain Tumors?",
+        "query2": "Can Dental X-Rays Lead to Brain Cancer?",
+        "query3": "Is There a Link Between Dental X-Rays and Brain Tumors?",
+        "query4": "Do X-Rays at the Dentist Cause Brain Tumors?",
+        "query5": "Are Dental X-Rays a Risk Factor for Brain Cancer?"
+    },
+    "PLAIN-2749": {
+        "query1": "Should Probiotics Be Taken Before, During, or After Eating Meals?",
+        "query2": "What Is the Optimal Time to Consume Probiotics in Relation to Meals?",
+        "query3": "Do Probiotics Work Better When Taken Before, During, or After Meals?",
+        "query4": "When Is the Best Time to Take Probiotics in Relation to Food Intake?",
+        "query5": "How Does the Timing of Probiotic Consumption Affect Its Efficacy?"
+    },
+    "PLAIN-2759": {
+        "query1": "Alcohol Consumption and Breast Cancer Risk: What is the Safe Limit?",
+        "query2": "How Much Alcohol is Too Much for Breast Cancer Prevention?",
+        "query3": "Breast Cancer and Drinking: What is the Recommended Alcohol Intake?",
+        "query4": "Alcohol and Breast Cancer: Is There a Safe Amount to Consume?",
+        "query5": "Breast Cancer Risk and Alcohol Consumption: How Much is Safe to Drink?"
+    },
+    "PLAIN-2769": {
+        "query1": "McGovern Report findings",
+        "query2": "McGovern Report recommendations",
+        "query3": "McGovern Report conclusions",
+        "query4": "McGovern Report summary",
+        "query5": "McGovern Report key takeaways"
+    },
+    "PLAIN-2779": {
+        "query1": "Which dried fruit is more beneficial for athletes: raisins or jelly beans?",
+        "query2": "Can consuming raisins or jelly beans provide a performance boost for athletes?",
+        "query3": "Which snack is more effective for replenishing energy stores during exercise: raisins or jelly beans?",
+        "query4": "How do raisins and jelly beans compare in terms of their impact on athletic performance and recovery?",
+        "query5": "What are the benefits and drawbacks of consuming raisins versus jelly beans for athletes seeking to enhance their performance?"
+    },
+    "PLAIN-2789": {
+        "query1": "Proteins related to hormonal changes during adolescence",
+        "query2": "Effects of environmental toxins on protein synthesis",
+        "query3": "Protein expression and puberty development",
+        "query4": "Impact of pollutants on protein function and regulation",
+        "query5": "Proteins involved in the onset of puberty and their interaction with pollutants"
+    },
+    "PLAIN-2799": {
+        "query1": "Secondhand Smoke from Meat: A Dietary Risk Factor for Chronic Diseases"
+    },
+    "PLAIN-2809": {
+        "query1": "Apple Peel: Uncovering the Anti-Cancer Properties",
+        "query2": "The Cancer-Fighting Power of Apple Skin",
+        "query3": "Peeling Back the Layers: Apple Skin's Role in Cancer Prevention",
+        "query4": "Apple Skin: Unlocking its Potential in Cancer Research",
+        "query5": "The Hidden Benefits of Apple Peel in Cancer Treatment"
+    },
+    "PLAIN-2819": {
+        "query1": "Potassium levels and autoimmune disorders",
+        "query2": "Autoimmune disease and potassium ion",
+        "query3": "Potassium deficiency and autoimmune disease",
+        "query4": "The relationship between potassium and autoimmune diseases",
+        "query5": "Potassium supplementation and autoimmune disorder treatment"
+    },
+    "PLAIN-2829": {
+        "query1": "Reducing sugar intake in daily meals",
+        "query2": "Cutting back on sugary foods in diet",
+        "query3": "Eliminating added sugars from daily consumption",
+        "query4": "Lowering sugar content in diet and nutrition",
+        "query5": "Reducing the amount of sugar in daily eating habits"
+    },
+    "PLAIN-2839": {
+        "query1": "Side effects of consuming fenugreek",
+        "query2": "What are the side effects of taking fenugreek",
+        "query3": "What are the risks associated with fenugreek consumption",
+        "query4": "Fenugreek adverse reactions and side effects",
+        "query5": "What are the consequences of eating fenugreek"
+    },
+    "PLAIN-2849": {
+        "query1": "Protein and cardiovascular disease",
+        "query2": "Heart disease and protein research",
+        "query3": "Protein's role in heart health",
+        "query4": "Cardiovascular disease and protein therapy",
+        "query5": "Protein biomarkers for heart disease"
+    },
+    "PLAIN-2859": {
+        "query1": "Toxic chemicals in California breast tissue",
+        "query2": "Presence of pollutants in Californian breast tissue samples",
+        "query3": "Chemical contaminants in California breast tissue",
+        "query4": "Breast tissue pollution in California",
+        "query5": "Detection of environmental pollutants in California breast tissue"
+    },
+    "PLAIN-2869": {
+        "query1": "Healthiest Meat Options for a Balanced Diet",
+        "query2": "Best Meat Choices for Optimal Health and Wellness",
+        "query3": "Nutritious Meat Options for a Healthy Lifestyle",
+        "query4": "Top Picks for the Healthiest Types of Meat",
+        "query5": "Meat Choices for a Health-Conscious Diet"
+    },
+    "PLAIN-2879": {
+        "query1": "What plant-based diets can help reduce IGF-1 levels?",
+        "query2": "What are the best plant-based diets for lowering IGF-1 levels?",
+        "query3": "What plant-based foods can help lower IGF-1 levels?",
+        "query4": "How can a plant-based diet help reduce IGF-1 levels?",
+        "query5": "What plant-based diet can help lower IGF-1 levels and promote overall health?"
+    },
+    "PLAIN-2889": {
+        "query1": "Extra Virgin Olive Oil vs. Nuts: Which is healthier?",
+        "query2": "Olive Oil vs. Nuts: Which is better for heart health?",
+        "query3": "Extra Virgin Olive Oil vs. Tree Nuts: Which is higher in antioxidants?",
+        "query4": "Comparing the health benefits of olive oil and nut consumption",
+        "query5": "Virgin Olive Oil vs. Nuts: Which has a higher nutritional value?"
+    },
+    "PLAIN-2899": {
+        "query1": "Firmicutes vs Bacteroidetes",
+        "query2": "Comparing Firmicutes and Bacteroidetes",
+        "query3": "Firmicutes vs Bacteroidetes tipping point",
+        "query4": "Bacteroidetes vs Firmicutes imbalance",
+        "query5": "Firmicutes to Bacteroidetes ratio analysis"
+    },
+    "PLAIN-2909": {
+        "query1": "What is the best source of phytosterols for optimal health benefits?",
+        "query2": "What are the top-rated phytosterol supplements for heart health and cholesterol reduction?",
+        "query3": "What are the richest sources of phytosterols in foods and how can they be incorporated into a healthy diet?",
+        "query4": "How do different phytosterol sources compare in terms of efficacy for lowering cholesterol and improving heart health?",
+        "query5": "What are the most effective natural sources of phytosterols for supporting cardiovascular health and reducing cholesterol levels?"
+    },
+    "PLAIN-2919": {
+        "query1": "Don'ts of Boosting Serotonin Levels"
+    },
+    "PLAIN-2929": {
+        "query1": "Kiwifruit and DNA repair mechanisms",
+        "query2": "Genetic repair in kiwifruit",
+        "query3": "Kiwifruit DNA damage repair pathways",
+        "query4": "DNA repair in Actinidia deliciosa (kiwifruit)",
+        "query5": "Kiwifruit genome stability and DNA repair"
+    },
+    "PLAIN-2939": {
+        "query1": "What is the Leaky Gut Theory and how does it relate to animal product consumption and inflammation?",
+        "query2": "How does the consumption of animal products lead to increased gut permeability and inflammation?",
+        "query3": "What role do animal products play in disrupting gut health and contributing to chronic inflammation?",
+        "query4": "What is the scientific basis for the claim that animal products cause inflammation through gut permeability?",
+        "query5": "How does the Leaky Gut Theory explain the link between animal product consumption and increased gut permeability and inflammation?"
+    },
+    "PLAIN-2949": {
+        "query1": "No acceptable risk, only zero risk"
+    },
+    "PLAIN-2959": {
+        "query1": "Dietary Supplement Scams",
+        "query2": "Fake Health Supplements",
+        "query3": "Deceptive Dietary Products",
+        "query4": "Unproven Health Supplements",
+        "query5": "Misleading Dietary Supplement Claims"
+    },
+    "PLAIN-2969": {
+        "query1": "US States with High Standard American Diet Prevalence: State-by-State Analysis",
+        "query2": "Comparison of American Diet Habits Across US States",
+        "query3": "State-by-State Examination of Standard American Diet Adoption Rates",
+        "query4": "US State-by-State Comparison of Standard American Diet Consumption Patterns",
+        "query5": "American Diet Trends in US States: A State-by-State Comparison"
+    },
+    "PLAIN-2979": {
+        "query1": "Cow's milk casomorphin and sudden infant death syndrome",
+        "query2": "Casomorphin in cow's milk and crib death risk",
+        "query3": "Link between cow's milk casomorphin and infant mortality",
+        "query4": "Cow's milk casomorphin and sudden infant death",
+        "query5": "Casomorphin in cow's milk and risk of crib death"
+    },
+    "PLAIN-2990": {
+        "query1": "Watermelon as a remedy for erectile dysfunction",
+        "query2": "Erectile dysfunction treatment using watermelon",
+        "query3": "Watermelon benefits for erectile dysfunction",
+        "query4": "Using watermelon to cure erectile dysfunction",
+        "query5": "Watermelon as a natural remedy for erectile dysfunction"
+    },
+    "PLAIN-3000": {
+        "query1": "Chicken contamination with dioxins, viruses, or antibiotics",
+        "query2": "Presence of dioxins, viruses, or antibiotics in chicken products",
+        "query3": "Chicken safety concerns related to dioxins, viruses, or antibiotics",
+        "query4": "Dioxins, viruses, or antibiotics in chicken meat: risks and implications",
+        "query5": "Chicken health risks associated with dioxins, viruses, or antibiotic residues"
+    },
+    "PLAIN-3013": {
+        "query1": "Lung Cancer Metastasis and Broccoli",
+        "query2": "Broccoli and Lung Cancer Metastasis Treatment",
+        "query3": "Effect of Broccoli on Lung Cancer Metastasis",
+        "query4": "Lung Cancer Metastasis Prevention with Broccoli",
+        "query5": "Broccoli Compounds and Lung Cancer Metastasis"
+    },
+    "PLAIN-3025": {
+        "query1": "Is Drinking Beet Juice Good for Our Health?",
+        "query2": "Should We Consume Beet Juice for Its Health Benefits?",
+        "query3": "Is Beet Juice a Healthy Choice for Us?",
+        "query4": "What Are the Advantages of Drinking Beet Juice?",
+        "query5": "Is Beet Juice a Nutritious Addition to Our Diet?"
+    },
+    "PLAIN-3036": {
+        "query1": "Asparagus in the urine"
+    },
+    "PLAIN-3052": {
+        "query1": "Anti Up on the Vegetables",
+        "query2": "Downfall of the Vegetables",
+        "query3": "Decline of the Vegetables",
+        "query4": "Setback for the Vegetables",
+        "query5": "Backlash against the Vegetables"
+    },
+    "PLAIN-3062": {
+        "query1": "Amla's effect on cancer cell proliferation",
+        "query2": "Effect of Amla on cancer cell growth and proliferation",
+        "query3": "Amla's role in inhibiting cancer cell growth",
+        "query4": "Investigating Amla's anticancer effects on cell proliferation",
+        "query5": "Amla's impact on the rate of cancer cell growth"
+    },
+    "PLAIN-3073": {
+        "query1": "Advanced glycosylation end-products (AGEs) research",
+        "query2": "Glycation compounds and their effects on health",
+        "query3": "Toxic compounds formed through sugar-protein interactions",
+        "query4": "AGEs and their role in oxidative stress and inflammation",
+        "query5": "Glycoxidation products and their impact on human disease"
+    },
+    "PLAIN-3084": {
+        "query1": "How did the Institute of Medicine establish their vitamin D guideline?",
+        "query2": "What steps did the Institute of Medicine take to develop their vitamin D recommendation?",
+        "query3": "How did the Institute of Medicine calculate their vitamin D intake levels?",
+        "query4": "What factors did the Institute of Medicine consider when setting their vitamin D intake recommendations?",
+        "query5": "What was the process by which the Institute of Medicine arrived at their vitamin D intake levels?"
+    },
+    "PLAIN-3096": {
+        "query1": "What nutrients are often overlooked in food labeling?",
+        "query2": "Phytochemicals: What essential vitamins and minerals are missing from nutrition labels?",
+        "query3": "Hidden nutrients in food: What's not included on the nutrition facts label?",
+        "query4": "The unlisted ingredients in your food: What phytochemicals are missing from nutrition labels?",
+        "query5": "Unlocking the secrets of phytochemicals: What's missing from standard nutrition labels?"
+    },
+    "PLAIN-3114": {
+        "query1": "Plant protein preferable",
+        "query2": "Plant protein of choice",
+        "query3": "Preferred plant protein",
+        "query4": "Best plant protein options",
+        "query5": "Plant protein preference"
+    },
+    "PLAIN-3130": {
+        "query1": "Are Avocados Bad for Your Health?",
+        "query2": "What are the Negative Effects of Eating Avocados?",
+        "query3": "Are Avocados Unhealthy to Consume?",
+        "query4": "Do Avocados Have Any Negative Health Impacts?",
+        "query5": "Are There Any Risks Associated with Eating Avocados?"
+    },
+    "PLAIN-3140": {
+        "query1": "The Size of a Stool Matters",
+        "query2": "Stool Dimensions Are Important",
+        "query3": "Why Stool Size Matters in [Topic]",
+        "query4": "The Importance of Stool Size in [Context]",
+        "query5": "Stool Size Plays a Crucial Role in [Area of Study]"
+    },
+    "PLAIN-3150": {
+        "query1": "Sun-Kissed Skin",
+        "query2": "Warm and Radiant Complexion",
+        "query3": "Glowing Facial Tone",
+        "query4": "Bright and Healthy-Looking Skin",
+        "query5": "Radiant and Glowing Complexion"
+    },
+    "PLAIN-3160": {
+        "query1": "The relationship between egg cholesterol and heart disease risk"
+    },
+    "PLAIN-3170": {
+        "query1": "Melatonin and breast cancer risk",
+        "query2": "Breast cancer and melatonin hormone",
+        "query3": "Melatonin supplementation and breast cancer prevention",
+        "query4": "The relationship between melatonin and breast cancer",
+        "query5": "Melatonin's effect on breast cancer cells"
+    },
+    "PLAIN-3180": {
+        "query1": "Is Kimchi Good For Your Health?",
+        "query2": "What Are the Health Benefits of Eating Kimchi?",
+        "query3": "Is Kimchi a Healthy Food Option?",
+        "query4": "Does Kimchi Have Any Nutritional Value?",
+        "query5": "What Are the Advantages of Consuming Kimchi Regularly?"
+    },
+    "PLAIN-3190": {
+        "query1": "Obesity-causing pollutants in food",
+        "query2": "Toxic chemicals in food linked to obesity",
+        "query3": "Pollutants in food and obesity risk",
+        "query4": "Chemicals in food that contribute to obesity",
+        "query5": "Foodborne pollutants and obesity connection"
+    },
+    "PLAIN-3200": {
+        "query1": "Anabolic steroids in beef",
+        "query2": "Presence of anabolic steroids in meat products",
+        "query3": "Anabolic steroid contamination in meat",
+        "query4": "Meat and anabolic steroids: a review",
+        "query5": "Detection of anabolic steroids in meat samples"
+    },
+    "PLAIN-3210": {
+        "query1": "Caffeine intake during pregnancy effects",
+        "query2": "Pregnancy and caffeine consumption risks",
+        "query3": "Caffeine consumption during pregnancy safe levels",
+        "query4": "Impact of caffeine on fetus during pregnancy",
+        "query5": "Caffeine and pregnancy guidelines for safe consumption"
+    },
+    "PLAIN-3220": {
+        "query1": "Reversing cognitive decline symptoms",
+        "query2": "Stopping cognitive decline in its tracks",
+        "query3": "Cognitive function improvement techniques",
+        "query4": "Reversing age-related cognitive decline",
+        "query5": "Preventing and reversing cognitive impairment"
+    },
+    "PLAIN-3230": {
+        "query1": "Cancer-causing viruses in food",
+        "query2": "Viral infections from food and cancer risk",
+        "query3": "Foodborne viruses linked to cancer",
+        "query4": "Cancer viruses found in contaminated food",
+        "query5": "Foodborne pathogens and cancer virus transmission"
+    },
+    "PLAIN-3240": {
+        "query1": "Is homeopathy based on a genuine medical treatment or is it just a placebo effect?",
+        "query2": "What evidence supports the effectiveness of homeopathy, or is it simply a placebo effect?",
+        "query3": "Can homeopathy provide real medical benefits, or is it just a placebo effect?",
+        "query4": "Does homeopathy have a scientific basis, or is it simply a placebo effect?",
+        "query5": "Can homeopathy provide actual medical benefits, or is it just a psychological placebo effect?"
+    },
+    "PLAIN-3250": {
+        "query1": "How to boost brain health with food",
+        "query2": "What foods improve memory and cognitive function",
+        "query3": "Best foods for improving memory and concentration",
+        "query4": "Foods that support brain health and memory",
+        "query5": "Dietary tips for improving memory and mental clarity"
+    },
+    "PLAIN-3260": {
+        "query1": "Update on Juice Plus Plus",
+        "query2": "Latest information on Juice Plus Plus",
+        "query3": "Juice Plus Plus updates and news",
+        "query4": "What's new with Juice Plus Plus",
+        "query5": "Information on the latest Juice Plus Plus developments"
+    },
+    "PLAIN-3270": {
+        "query1": "What are the key differences between flaxseeds and chia seeds in terms of nutritional content?",
+        "query2": "Which seed is more beneficial for heart health, flaxseed or chia seed?",
+        "query3": "Can flaxseeds or chia seeds help with weight loss, and which one is more effective?",
+        "query4": "How do flaxseeds and chia seeds compare in terms of promoting digestive health and reducing inflammation?",
+        "query5": "Which seed contains more omega-3 fatty acids, flaxseed or chia seed, and what are the benefits of consuming them?"
+    },
+    "PLAIN-3280": {
+        "query1": "Brown Rice vs. Black Rice: Which is healthier?",
+        "query2": "White vs. Black Rice: What are the nutritional differences?",
+        "query3": "Brown Rice vs. Black Rice: Which has more fiber and antioxidants?",
+        "query4": "Black Rice vs. Brown Rice: Which is better for weight loss and digestion?",
+        "query5": "Brown Rice vs. Black Rice: A comparison of their nutritional values and health benefits"
+    },
+    "PLAIN-3291": {
+        "query1": "Lutein, Lycopene, and Selenium supplements",
+        "query2": "Pills containing Lutein, Lycopene, and Selenium",
+        "query3": "Lutein, Lycopene, and Selenium dietary supplements",
+        "query4": "Lutein, Lycopene, and Selenium capsules",
+        "query5": "Lutein, Lycopene, and Selenium antioxidant pills"
+    },
+    "PLAIN-3301": {
+        "query1": "Mercury Fillings vs. Canned Tuna",
+        "query2": "Toxic Dental Fillings vs. Canned Tuna",
+        "query3": "Dental Fillings Containing Mercury vs. Canned Tuna",
+        "query4": "Mercury in Dental Fillings vs. Canned Tuna",
+        "query5": "Toxic Dental Fillings vs. Canned Tuna Fish"
+    },
+    "PLAIN-3311": {
+        "query1": "New Corpse Smell",
+        "query2": "Freshly Dead Odor",
+        "query3": "Cadaverous Aroma",
+        "query4": "Deathly Stench",
+        "query5": "Decomposing Body Smell"
+    },
+    "PLAIN-3321": {
+        "query1": "Best vegetable for cancer prevention",
+        "query2": "Vegetables that help prevent cancer",
+        "query3": "Cancer-fighting vegetables to eat",
+        "query4": "Vegetables with high cancer-fighting properties",
+        "query5": "Antioxidant-rich vegetables for cancer prevention"
+    },
+    "PLAIN-3331": {
+        "query1": "Is salt intake acceptable if blood pressure is within normal range?",
+        "query2": "Can I consume salt if my blood pressure is healthy?",
+        "query3": "Is it safe to eat salt if my blood pressure is under control?",
+        "query4": "Is salt consumption allowed if blood pressure is normal?",
+        "query5": "Can I have salt if my blood pressure is at a healthy level?"
+    },
+    "PLAIN-3341": {
+        "query1": "Are Avocados Good for Your Health?",
+        "query2": "What are the Health Benefits of Avocados?",
+        "query3": "Is Eating Avocados Good for Your Body?",
+        "query4": "Do Avocados Have Any Health Advantages?",
+        "query5": "What are the Nutritional Benefits of Avocados?"
+    },
+    "PLAIN-3351": {
+        "query1": "Recent updates on Spirulina research",
+        "query2": "Latest findings on Spirulina nutritional benefits",
+        "query3": "Spirulina updates: new studies and discoveries",
+        "query4": "Current information on Spirulina health effects",
+        "query5": "Recent developments in Spirulina science and technology"
+    },
+    "PLAIN-3361": {
+        "query1": "What's the latest news about chocolate?",
+        "query2": "Can you provide an update on the current state of chocolate?",
+        "query3": "What are the recent developments in the chocolate industry?",
+        "query4": "Can you give me an update on the latest trends and developments in the chocolate market?",
+        "query5": "What's the current status of the chocolate market and any new developments?"
+    },
+    "PLAIN-3371": {
+        "query1": "What are the safest artificial sweeteners available?",
+        "query2": "What are the most harmless artificial sweeteners to consume?",
+        "query3": "Which artificial sweeteners are considered safe for regular consumption?",
+        "query4": "What are the safest sugar substitutes that are commonly used?",
+        "query5": "What are the safest low-calorie sweetener alternatives to sugar?"
+    },
+    "PLAIN-3381": {
+        "query1": "Are Artificial Colors Bad for You?",
+        "query2": "Do Artificial Food Colors Cause Harm?",
+        "query3": "Are Artificial Food Dyes Safe to Consume?",
+        "query4": "Can Artificial Colors in Food Be Harmful to Health?",
+        "query5": "Are Synthetic Food Colors Linked to Health Problems?"
+    },
+    "PLAIN-3391": {
+        "query1": "Bottled Water vs. Tap Water: Which is Better?",
+        "query2": "Tap Water vs. Bottled Water: Is Bottled Really Worth It?",
+        "query3": "Bottled vs. Tap Water: A Comparison of Convenience and Cost",
+        "query4": "Tap Water vs. Bottled Water: Is Tap Really Safer?",
+        "query5": "Bottled Water vs. Tap Water: The Environmental Impact of Bottled vs. Tap"
+    },
+    "PLAIN-3401": {
+        "query1": "budget-friendly superfoods for sale"
+    },
+    "PLAIN-3411": {
+        "query1": "Dairy products and acne",
+        "query2": "Acne and milk consumption",
+        "query3": "Dairy intake and acne breakouts",
+        "query4": "Milk and acne connection",
+        "query5": "Dairy consumption and acne symptoms"
+    },
+    "PLAIN-3421": {
+        "query1": "broccoli sprouts",
+        "query2": "broccoli greens",
+        "query3": "baby broccoli",
+        "query4": "young broccoli",
+        "query5": "microgreens broccoli"
+    },
+    "PLAIN-3431": {
+        "query1": "Comparison of nutrient deficiencies between omnivorous and vegan diets",
+        "query2": "Nutrient deficiencies associated with vegan and omnivorous diets",
+        "query3": "Comparison of nutrient deficiencies in vegan and omnivorous eating patterns",
+        "query4": "Nutrient deficiencies in omnivorous and vegan diets: a comparative analysis",
+        "query5": "Differences in nutrient deficiencies between vegan and omnivorous diets"
+    },
+    "PLAIN-3441": {
+        "query1": "Doctors' lack of knowledge about nutrition",
+        "query2": "Physicians' nutritional ignorance and lack of education",
+        "query3": "Common misconceptions about nutrition among healthcare professionals",
+        "query4": "Assessing doctors' knowledge of nutrition and identifying areas for improvement",
+        "query5": "Evaluating the nutritional knowledge of medical practitioners and its implications for patient care"
+    },
+    "PLAIN-3451": {
+        "query1": "Blue-green algae spirulina",
+        "query2": "spirulina blue green algae",
+        "query3": "blue green algae spirulina benefits",
+        "query4": "spirulina vs blue green algae",
+        "query5": "blue green algae spirulina powder"
+    },
+    "PLAIN-3461": {
+        "query1": "Caffeine consumption and mortality rates",
+        "query2": "Coffee drinking habits and mortality statistics",
+        "query3": "The relationship between coffee consumption and death rates",
+        "query4": "Mortality risk associated with coffee and caffeine intake",
+        "query5": "Coffee consumption patterns and mortality outcomes"
+    },
+    "PLAIN-3471": {
+        "query1": "Identifying and Addressing the Primary Causes of Mortality",
+        "query2": "Exploring the Underlying Factors Contributing to Leading Causes of Death",
+        "query3": "Analyzing the Root Causes of Fatalities and Developing Strategies for Prevention",
+        "query4": "Investigating the Main Causes of Mortality and Identifying Opportunities for Intervention",
+        "query5": "Understanding the Leading Causes of Death and Developing Effective Solutions for Mitigation"
+    }
+}

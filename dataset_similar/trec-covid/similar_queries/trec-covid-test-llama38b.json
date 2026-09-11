@@ -1,0 +1,352 @@
+{
+    "1": {
+        "query1": "What is the source of COVID-19?",
+        "query2": "Where did COVID-19 originate from?",
+        "query3": "What is the origin story of COVID-19?",
+        "query4": "How did COVID-19 first emerge?",
+        "query5": "What is the earliest known source of COVID-19?"
+    },
+    "2": {
+        "query1": "How does the COVID-19 virus react to variations in temperature and humidity?",
+        "query2": "What impact does weather have on the spread of coronavirus?",
+        "query3": "How does the coronavirus respond to changes in atmospheric conditions?",
+        "query4": "What role does weather play in the transmission of COVID-19?",
+        "query5": "How does the coronavirus behave in different environmental conditions, such as heat, cold, and precipitation?"
+    },
+    "3": {
+        "query1": "Will individuals infected with SARS-CoV-2 develop long-term immunity?",
+        "query2": "Is there cross-protection between SARS-CoV-2 and other coronaviruses?",
+        "query3": "Do people who have recovered from SARS-CoV-2 infection retain immunity?",
+        "query4": "Can SARS-CoV-2 infection provide protection against future coronavirus infections?",
+        "query5": "Is there evidence of herd immunity following SARS-CoV-2 infection?"
+    },
+    "4": {
+        "query1": "what causes death from Covid-19",
+        "query2": "what causes death from Covid-19",
+        "query3": "what causes death from Covid-19",
+        "query4": "what causes death from Covid-19",
+        "query5": "what causes death from Covid-19"
+    },
+    "5": {
+        "query1": "What antiviral medications have shown efficacy against SARS-CoV or SARS-CoV-2 in animal models?",
+        "query2": "List of drugs that have been effective against SARS-CoV or SARS-CoV-2 in preclinical studies",
+        "query3": "Identify antiviral compounds that have demonstrated activity against SARS-CoV or SARS-CoV-2 in in vivo studies",
+        "query4": "What medications have been tested for their ability to inhibit SARS-CoV or SARS-CoV-2 replication in animal studies?",
+        "query5": "What antiviral agents have shown promise in reducing SARS-CoV or SARS-CoV-2 viral load in animal models?"
+    },
+    "6": {
+        "query1": "What are the different types of rapid COVID-19 tests that have been developed?",
+        "query2": "What are the various rapid COVID-19 testing methods that have been created?",
+        "query3": "What types of COVID-19 rapid diagnostic tests have been developed?",
+        "query4": "What are the rapid COVID-19 testing technologies that have been developed?",
+        "query5": "What are the different rapid COVID-19 testing methods that have been developed?"
+    },
+    "7": {
+        "query1": "What serological tests can identify antibodies against coronavirus?",
+        "query2": "Are there blood tests that detect coronavirus antibodies?",
+        "query3": "What types of serological tests are available for detecting coronavirus antibodies?",
+        "query4": "Can serological tests identify the presence of coronavirus antibodies in the blood?",
+        "query5": "What laboratory tests can detect antibodies to coronavirus?"
+    },
+    "8": {
+        "query1": "How has limited access to COVID-19 testing contributed to underestimation of the actual number of COVID-19 cases?",
+        "query2": "What impact has the scarcity of COVID-19 testing facilities had on the reported incidence of COVID-19?",
+        "query3": "How has the lack of widespread COVID-19 testing led to underreporting of the true extent of the pandemic?",
+        "query4": "What role has the unavailability of COVID-19 testing played in the underestimation of COVID-19 cases?",
+        "query5": "How has the shortage of COVID-19 testing resources affected the accuracy of reported COVID-19 incidence rates?"
+    },
+    "9": {
+        "query1": "What impact has COVID-19 had on Canada?",
+        "query2": "How has the COVID-19 pandemic affected the country of Canada?",
+        "query3": "What effects has COVID-19 had on the Canadian population?",
+        "query4": "In what ways has COVID-19 influenced Canada's healthcare system?",
+        "query5": "What changes have occurred in Canada due to the COVID-19 outbreak?"
+    },
+    "10": {
+        "query1": "Has social distancing measures been effective in reducing the transmission of COVID-19?",
+        "query2": "What impact has social distancing had on the spread of COVID-19?",
+        "query3": "Did social distancing policies slow down the spread of COVID-19?",
+        "query4": "How effective has social distancing been in controlling the spread of COVID-19?",
+        "query5": "Has the implementation of social distancing protocols contributed to a decrease in COVID-19 cases?"
+    },
+    "11": {
+        "query1": "What are the protocols for managing patients with COVID-19?",
+        "query2": "What are the guidelines for treating patients infected with SARS-CoV-2?",
+        "query3": "How do healthcare professionals triage patients with coronavirus infection?",
+        "query4": "What are the best practices for caring for patients with COVID-19?",
+        "query5": "What are the clinical guidelines for managing patients with coronavirus disease?"
+    },
+    "12": {
+        "query1": "What are the guidelines for maintaining isolation in hospitals and at home?",
+        "query2": "What are the best practices for preventing the spread of infection in hospitals and at home during quarantine?",
+        "query3": "How can hospitals and individuals maintain a safe quarantine environment?",
+        "query4": "What are the key steps for maintaining quarantine protocols in hospitals and at home?",
+        "query5": "What are the recommended precautions for preventing the spread of illness in hospitals and at home during isolation?"
+    },
+    "13": {
+        "query1": "What are the primary modes of coronavirus transmission?",
+        "query2": "How does coronavirus spread from person to person?",
+        "query3": "What are the main routes of coronavirus transmission?",
+        "query4": "What are the ways coronavirus is transmitted?",
+        "query5": "What are the common pathways of coronavirus transmission?"
+    },
+    "14": {
+        "query1": "What research is available on COVID-19 superspreader cases?",
+        "query2": "What evidence exists regarding individuals who spread COVID-19 to a large number of people?",
+        "query3": "What studies have investigated the phenomenon of COVID-19 superspreaders?",
+        "query4": "What information is available on the characteristics of COVID-19 superspreaders?",
+        "query5": "What data is available on the role of superspreaders in the transmission of COVID-19?"
+    },
+    "15": {
+        "query1": "How long can the COVID-19 virus survive outside the human body?",
+        "query2": "What is the shelf life of the coronavirus on surfaces?",
+        "query3": "How long can the SARS-CoV-2 virus remain active outside a host?",
+        "query4": "For how long can the coronavirus remain viable on inanimate objects?",
+        "query5": "What is the duration of coronavirus survival on non-living surfaces?"
+    },
+    "16": {
+        "query1": "How long does COVID-19 remain viable on surfaces?",
+        "query2": "For how long does coronavirus survive on surfaces?",
+        "query3": "What is the shelf life of coronavirus on surfaces?",
+        "query4": "How long can coronavirus remain active on surfaces?",
+        "query5": "How long does coronavirus remain contagious on surfaces?"
+    },
+    "17": {
+        "query1": "What are the current clinical trials for COVID-19?",
+        "query2": "Are there any ongoing coronavirus clinical trials?",
+        "query3": "What clinical studies are available for the treatment of coronavirus?",
+        "query4": "Can I participate in a coronavirus clinical trial?",
+        "query5": "What are the latest clinical trials for the coronavirus pandemic?"
+    },
+    "18": {
+        "query1": "What are the most effective face masks for preventing COVID-19 transmission?",
+        "query2": "Which masks provide the best protection against COVID-19 infection?",
+        "query3": "What are the top-rated masks for preventing the spread of COVID-19?",
+        "query4": "What are the best types of masks for protecting against COVID-19?",
+        "query5": "What masks offer the highest level of protection against COVID-19 infection?"
+    },
+    "19": {
+        "query1": "What kind of hand sanitizer is effective against COVID-19?",
+        "query2": "What type of hand sanitizer kills COVID-19?",
+        "query3": "What hand sanitizer is needed to eliminate COVID-19?",
+        "query4": "What hand sanitizer is most effective against the COVID-19 virus?",
+        "query5": "What hand sanitizer contains the necessary ingredients to destroy COVID-19?"
+    },
+    "20": {
+        "query1": "Do patients taking Angiotensin-converting enzyme inhibitors (ACE) have a higher risk of contracting COVID-19?",
+        "query2": "Is there an increased risk of COVID-19 in patients taking ACE inhibitors?",
+        "query3": "Are patients on ACE inhibitor medication more susceptible to COVID-19?",
+        "query4": "Does taking Angiotensin-converting enzyme inhibitors (ACE) increase the risk of COVID-19 in patients?",
+        "query5": "Is there a correlation between ACE inhibitor use and COVID-19 risk in patients?"
+    },
+    "21": {
+        "query1": "What are the overall mortality rates and how do they vary across different demographic groups?",
+        "query2": "What are the mortality rates in general and what are the specific rates for certain populations?",
+        "query3": "How do mortality rates compare overall and within specific population subgroups?",
+        "query4": "What are the mortality rates for the general population and what are the rates for specific populations such as age groups, ethnicities, or socioeconomic statuses?",
+        "query5": "What are the overall mortality rates and how do they differ among various population segments?"
+    },
+    "22": {
+        "query1": "What is the likelihood of cardiac issues in patients with COVID-19?",
+        "query2": "Do patients with COVID-19 have a higher risk of cardiac complications?",
+        "query3": "Are there any cardiac problems associated with COVID-19 infection?",
+        "query4": "What is the relationship between COVID-19 and cardiac disease?",
+        "query5": "Can COVID-19 lead to cardiac complications in patients?"
+    },
+    "23": {
+        "query1": "What are the potential complications of COVID-19 in patients with high blood pressure?",
+        "query2": "What COVID-19 related health issues are associated with hypertension?",
+        "query3": "How does hypertension affect the severity of COVID-19 symptoms?",
+        "query4": "What are the comorbidities of COVID-19 in individuals with hypertension?",
+        "query5": "What are the risks of COVID-19 complications in people with uncontrolled high blood pressure?"
+    },
+    "24": {
+        "query1": "What are the potential complications of COVID-19 in individuals with diabetes?",
+        "query2": "How does diabetes increase the risk of severe COVID-19 complications?",
+        "query3": "What are the comorbidities associated with COVID-19 in people with diabetes?",
+        "query4": "What are the common COVID-19 complications in patients with diabetes?",
+        "query5": "What are the COVID-19-related health issues that are more prevalent in individuals with diabetes?"
+    },
+    "25": {
+        "query1": "Which laboratory markers are associated with a poor prognosis in COVID-19 patients?",
+        "query2": "What biomarkers are indicative of severe COVID-19 disease?",
+        "query3": "Identify the clinical indicators that predict a severe outcome in 2019-nCOV infection",
+        "query4": "What are the predictive biomarkers for severe COVID-19 clinical manifestations?",
+        "query5": "Which biological markers are correlated with a severe clinical course of COVID-19 infection?"
+    },
+    "26": {
+        "query1": "What are the early signs of Covid-19?",
+        "query2": "What are the first symptoms of Covid-19 infection?",
+        "query3": "What are the initial signs and symptoms of Covid-19?",
+        "query4": "What are the primary symptoms of Covid-19 at the beginning?",
+        "query5": "What are the initial symptoms and signs of Covid-19 disease?"
+    },
+    "27": {
+        "query1": "What is known about individuals who test positive for Covid-19 but do not exhibit symptoms?",
+        "query2": "What research exists on asymptomatic Covid-19 cases?",
+        "query3": "What are the characteristics of people who are infected with Covid-19 but do not show symptoms?",
+        "query4": "What is the current understanding of asymptomatic Covid-19 transmission?",
+        "query5": "What studies have been conducted on individuals who are Covid-19 positive but asymptomatic?"
+    },
+    "28": {
+        "query1": "What scientific evidence supports the effectiveness of hydroxychloroquine in treating COVID-19?",
+        "query2": "Is there any credible research on the use of hydroxychloroquine as a treatment for COVID-19?",
+        "query3": "What are the current findings on the efficacy of hydroxychloroquine in treating COVID-19 patients?",
+        "query4": "What studies have investigated the potential benefits of hydroxychloroquine in treating COVID-19?",
+        "query5": "What is the current state of knowledge regarding the use of hydroxychloroquine as a treatment for COVID-19?"
+    },
+    "29": {
+        "query1": "What SARS-CoV-2 protein interactions with human proteins suggest potential therapeutic targets for repurposed drugs?",
+        "query2": "Identify SARS-CoV-2 protein-human protein interactions that indicate potential for drug repurposing as therapeutic targets.",
+        "query3": "Which SARS-CoV-2 proteins have interactions with human proteins that could be targeted by existing approved drugs?",
+        "query4": "Find SARS-CoV-2 protein interactions with human proteins that suggest potential for drug repurposing as therapeutic targets.",
+        "query5": "What human proteins interact with SARS-CoV-2 proteins that could be targeted by existing approved drugs for repurposing?"
+    },
+    "30": {
+        "query1": "Is remdesivir a reliable treatment for COVID-19?",
+        "query2": "Does remdesivir work effectively against COVID-19?",
+        "query3": "Is remdesivir a proven treatment for COVID-19?",
+        "query4": "What is the efficacy of remdesivir in treating COVID-19?",
+        "query5": "Is remdesivir a viable treatment option for COVID-19?"
+    },
+    "31": {
+        "query1": "How does COVID-19 differ from the common cold?",
+        "query2": "What are the key differences between the coronavirus and seasonal influenza?",
+        "query3": "How does the COVID-19 virus compare to the flu in terms of symptoms and transmission?",
+        "query4": "What sets the coronavirus apart from other respiratory viruses like the flu?",
+        "query5": "How does the COVID-19 pandemic differ from typical flu seasons in terms of severity and impact?"
+    },
+    "32": {
+        "query1": "What are the different strains of SARS-CoV-2?",
+        "query2": "Are there any subvariants of SARS-CoV-2?",
+        "query3": "What are the known subtypes of SARS-CoV-2 virus?",
+        "query4": "Does SARS-CoV-2 have any genetic variations or subtypes?",
+        "query5": "What are the different subtypes or lineages of SARS-CoV-2?"
+    },
+    "33": {
+        "query1": "Which Covid-19 vaccine candidates are undergoing clinical testing?",
+        "query2": "What are the current Covid-19 vaccine candidates in clinical trials?",
+        "query3": "What potential vaccines against Covid-19 are being evaluated?",
+        "query4": "What Covid-19 vaccine designs are undergoing testing?",
+        "query5": "What new Covid-19 vaccines are undergoing evaluation?"
+    },
+    "34": {
+        "query1": "What are the long-term health consequences of COVID-19 survivors?",
+        "query2": "What are the potential long-term effects of recovering from COVID-19?",
+        "query3": "What are the chronic health issues that can arise after recovering from COVID-19?",
+        "query4": "What are the long-term health problems associated with COVID-19 recovery?",
+        "query5": "What are the lingering health effects of COVID-19 survivors?"
+    },
+    "35": {
+        "query1": "What recent public datasets are available for COVID-19 research?",
+        "query2": "What new open-source datasets are available related to COVID-19?",
+        "query3": "What publicly available datasets have been released for COVID-19 studies?",
+        "query4": "What datasets are available for COVID-19 research and analysis?",
+        "query5": "What open-access datasets are available for COVID-19 investigation?"
+    },
+    "36": {
+        "query1": "What is the three-dimensional structure of the SARS-CoV-2 spike protein?",
+        "query2": "What is the molecular structure of the SARS-CoV-2 spike protein?",
+        "query3": "What is the detailed atomic structure of the SARS-CoV-2 spike protein?",
+        "query4": "What is the spatial arrangement of the SARS-CoV-2 spike protein's amino acids?",
+        "query5": "What is the specific arrangement of the SARS-CoV-2 spike protein's atoms and molecules?"
+    },
+    "37": {
+        "query1": "What are the results of phylogenetic analysis of SARS-CoV-2 genome sequence?",
+        "query2": "What is the outcome of phylogenetic analysis of SARS-CoV-2 genome sequence?",
+        "query3": "What are the implications of phylogenetic analysis of SARS-CoV-2 genome sequence?",
+        "query4": "What are the results of phylogenetic analysis of SARS-CoV-2 genome sequence?",
+        "query5": "What are the findings of phylogenetic analysis of SARS-CoV-2 genome sequence?"
+    },
+    "38": {
+        "query1": "What is the underlying mechanism of the inflammatory response in COVID-19 patients?",
+        "query2": "How does the inflammatory response contribute to the pathogenesis of COVID-19?",
+        "query3": "What is the role of inflammation in the development and progression of COVID-19 disease?",
+        "query4": "What are the key factors involved in the inflammatory response and pathogenesis of COVID-19?",
+        "query5": "What is the relationship between the inflammatory response and the severity of COVID-19 cases?"
+    },
+    "39": {
+        "query1": "What is the pathophysiology of cytokine storm in COVID-19 patients?",
+        "query2": "How does cytokine storm syndrome contribute to the severity of COVID-19 infection?",
+        "query3": "What is the role of cytokine storm in the progression of COVID-19 disease?",
+        "query4": "What are the underlying mechanisms of cytokine storm in COVID-19 patients?",
+        "query5": "How does the cytokine storm response impact the clinical outcomes of COVID-19 patients?"
+    },
+    "40": {
+        "query1": "What are the reported mutations in the SARS-CoV-2 genome and their frequencies?",
+        "query2": "How often do mutations occur in the SARS-CoV-2 genome and what are their characteristics?",
+        "query3": "What are the observed frequencies of mutations in the SARS-CoV-2 genome?",
+        "query4": "What mutations have been identified in the SARS-CoV-2 genome and how common are they?",
+        "query5": "What are the mutation rates and patterns in the SARS-CoV-2 genome?"
+    },
+    "41": {
+        "query1": "What are the disparities in COVID-19 outcomes among African-Americans compared to the general U.S. population?",
+        "query2": "How do the effects of COVID-19 differ among African-Americans versus the rest of the U.S. population?",
+        "query3": "What are the unique challenges faced by African-Americans in terms of COVID-19 compared to the broader U.S. population?",
+        "query4": "What are the racial and ethnic disparities in COVID-19 impacts among African-Americans versus the general U.S. population?",
+        "query5": "How do the COVID-19 experiences of African-Americans compare to those of the general U.S. population in terms of health outcomes and access to care?"
+    },
+    "42": {
+        "query1": "Does Vitamin D have a role in preventing or treating COVID-19?",
+        "query2": "How does Vitamin D supplementation affect COVID-19 outcomes?",
+        "query3": "Can Vitamin D deficiency increase the risk of severe COVID-19?",
+        "query4": "What is the relationship between Vitamin D levels and COVID-19 susceptibility?",
+        "query5": "Does Vitamin D supplementation have any benefits in COVID-19 patients?"
+    },
+    "43": {
+        "query1": "What has been the effect of the COVID-19 pandemic on rates of violent crime?",
+        "query2": "How has the COVID-19 pandemic influenced societal violence and aggression?",
+        "query3": "What impact has the COVID-19 pandemic had on domestic violence and other forms of interpersonal violence?",
+        "query4": "How has the COVID-19 pandemic contributed to an increase in violent behavior and crime?",
+        "query5": "What changes in violent crime rates have been observed during the COVID-19 pandemic?"
+    },
+    "44": {
+        "query1": "What is the effectiveness of wearing masks in reducing the transmission of COVID-19?",
+        "query2": "How do masks contribute to preventing the spread of COVID-19?",
+        "query3": "What impact do face masks have on the prevention of COVID-19?",
+        "query4": "Can wearing masks significantly reduce the risk of COVID-19 transmission?",
+        "query5": "What role do masks play in controlling the spread of COVID-19?"
+    },
+    "45": {
+        "query1": "What effects has the COVID-19 pandemic had on mental wellbeing?",
+        "query2": "How has the COVID-19 pandemic influenced mental health outcomes?",
+        "query3": "What impact has the COVID-19 pandemic had on individuals' mental health?",
+        "query4": "How has the COVID-19 pandemic affected mental health and wellbeing?",
+        "query5": "What role has the COVID-19 pandemic played in exacerbating mental health issues?"
+    },
+    "46": {
+        "query1": "What are the clinical trials and studies supporting the use of dexamethasone as a treatment for COVID-19?",
+        "query2": "Is there scientific evidence for the effectiveness of dexamethasone in treating COVID-19 patients?",
+        "query3": "What are the current research findings on the use of dexamethasone as a treatment for COVID-19?",
+        "query4": "What are the benefits and risks of using dexamethasone as a treatment for COVID-19 based on existing evidence?",
+        "query5": "What is the current state of knowledge on the use of dexamethasone as a therapeutic option for COVID-19?"
+    },
+    "47": {
+        "query1": "What are the long-term health effects of COVID-19 in pediatric patients?",
+        "query2": "How does COVID-19 impact the health and well-being of children?",
+        "query3": "What are the potential health complications for kids who contract COVID-19?",
+        "query4": "What are the short-term and long-term health outcomes for children who have been infected with COVID-19?",
+        "query5": "What are the health consequences of COVID-19 in children and adolescents?"
+    },
+    "48": {
+        "query1": "What are the advantages and disadvantages of reopening schools during the COVID-19 pandemic?",
+        "query2": "What are the pros and cons of reopening schools amidst the COVID-19 outbreak?",
+        "query3": "What are the benefits and drawbacks of resuming in-person education during the COVID-19 pandemic?",
+        "query4": "What are the risks and benefits of reopening schools in the midst of the COVID-19 pandemic?",
+        "query5": "What are the advantages and risks of returning to in-person schooling during the COVID-19 pandemic?"
+    },
+    "49": {
+        "query1": "Do individuals who have recovered from COVID-19 exhibit a robust immune response, including antibody production and T-cell mediated immunity, to protect against re-infection?",
+        "query2": "Can individuals who have previously contracted COVID-19 mount an effective immune response, including antibody levels and T-cell activity, to prevent re-infection?",
+        "query3": "Do recovered COVID-19 patients demonstrate sufficient immune system activation, including antibody production and T-cell mediated immunity, to prevent re-exposure to the virus?",
+        "query4": "Do individuals who have recovered from COVID-19 possess a long-lasting immune response, including antibody levels and T-cell mediated immunity, to protect against future infections?",
+        "query5": "Can individuals who have previously recovered from COVID-19 exhibit a sustained immune response, including antibody production and T-cell activity, to prevent re-infection and re-exposure to the virus?"
+    },
+    "50": {
+        "query1": "What is the current understanding of mRNA vaccines for COVID-19?",
+        "query2": "What are the key findings on mRNA-based SARS-CoV-2 vaccines?",
+        "query3": "What research has been conducted on mRNA vaccines for the SARS-CoV-2 virus?",
+        "query4": "What are the latest developments in mRNA vaccine technology for COVID-19?",
+        "query5": "What is known about the efficacy and safety of mRNA SARS-CoV-2 vaccines?"
+    }
+}
